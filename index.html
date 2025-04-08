@@ -1,0 +1,791 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Dvecontent </title>
+    <style>
+        /* أنماط عامة */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Arial', sans-serif;
+        }
+        body {
+            background-color: #f5f9ff;
+            direction: rtl;
+        }
+        a {
+            text-decoration: none;
+        }
+        
+        /* أنماط القوائم */
+        header {
+            background-color: #2c3e50;
+            color: white;
+            padding: 1rem;
+            text-align: center;
+            position: relative;
+        }
+        .header-ad {
+            background-color: #f1c40f;
+            color: #333;
+            padding: 0.5rem;
+            text-align: center;
+            font-size: 0.9rem;
+            border-bottom: 1px solid #ddd;
+        }
+        nav {
+            background-color: #34495e;
+            padding: 0.5rem;
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            flex-wrap: wrap;
+        }
+        nav a {
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+        }
+        nav a:hover {
+            background-color: #2c3e50;
+        }
+        
+        /* أنماط الصفحة الرئيسية */
+        .dashboard {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        .welcome-msg {
+            text-align: center;
+            margin-bottom: 2rem;
+            color: #333;
+        }
+        .sections-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+        .section-card {
+            background-color: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+            text-align: center;
+        }
+        .section-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+        }
+        .section-card i {
+            font-size: 3rem;
+            color: #2c3e50;
+            margin-bottom: 1rem;
+        }
+        .section-card h2 {
+            color: #2c3e50;
+            margin-bottom: 0.5rem;
+        }
+        .section-card p {
+            color: #555;
+            margin-bottom: 1rem;
+        }
+        .section-card a {
+            display: inline-block;
+            background-color: #2c3e50;
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+        }
+        .section-card a:hover {
+            background-color: #1a252f;
+        }
+        
+        /* أنماط صفحات المحتوى */
+        .content-page {
+            max-width: 1200px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+        .page-title {
+            text-align: center;
+            margin-bottom: 2rem;
+            color: #2c3e50;
+        }
+        .content-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+        }
+        .content-item {
+            background-color: white;
+            border-radius: 8px;
+            padding: 1.5rem;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            position: relative;
+        }
+        .content-item .type {
+            display: inline-block;
+            background-color: #e74c3c;
+            color: white;
+            padding: 0.2rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            margin-bottom: 1rem;
+        }
+        .content-item h2 {
+            color: #2c3e50;
+            margin-bottom: 0.5rem;
+        }
+        .content-item small {
+            color: #7f8c8d;
+            display: block;
+            margin-bottom: 1rem;
+        }
+        .content-item p {
+            color: #555;
+            margin-bottom: 1rem;
+            line-height: 1.6;
+        }
+        .content-item img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 4px;
+            margin-bottom: 1rem;
+        }
+        .content-item .file-download {
+            display: block;
+            margin-bottom: 1rem;
+            color: #3498db;
+        }
+        .content-item .actions {
+            display: flex;
+            gap: 0.5rem;
+        }
+        .content-item .actions a {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+        }
+        .content-item .actions .view {
+            background-color: #2c3e50;
+            color: white;
+        }
+        .content-item .actions .view:hover {
+            background-color: #1a252f;
+        }
+        
+        /* أنماط التطبيقات المخصصة */
+        .app-card {
+            background: #fff;
+            border-radius: 10px;
+            padding: 1.5rem;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        .app-icon {
+            width: 80px;
+            height: 80px;
+            border-radius: 15px;
+            margin-bottom: 1rem;
+            object-fit: contain;
+        }
+        .app-title {
+            color: #2c3e50;
+            margin-bottom: 0.5rem;
+        }
+        .app-description {
+            color: #555;
+            margin-bottom: 1rem;
+            line-height: 1.6;
+        }
+        .app-meta {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            margin-bottom: 1rem;
+            font-size: 0.9rem;
+            color: #7f8c8d;
+        }
+        .download-btn {
+            display: inline-block;
+            background: #4CAF50;
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 5px;
+            text-decoration: none;
+            transition: background-color 0.3s;
+        }
+        .download-btn:hover {
+            background: #45a049;
+        }
+        
+        /* أنماط الأدوات */
+        .tool-card {
+            background-color: #fff;
+            border-radius: 10px;
+            padding: 1.5rem;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        .tool-icon {
+            width: 80px;
+            height: 80px;
+            object-fit: contain;
+            margin-bottom: 1rem;
+        }
+        .tool-btn {
+            background-color: #28a745;
+            color: white;
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .tool-btn:hover {
+            background-color: #218838;
+        }
+        
+        /* أنماط المنشورات */
+        .post-card {
+            background-color: #fff;
+            border-radius: 10px;
+            padding: 1.5rem;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        .post-image {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 8px;
+            margin-bottom: 1rem;
+        }
+        
+        /* أنماط الوسائط */
+        .media-card {
+            background-color: #fff;
+            border-radius: 10px;
+            padding: 1.5rem;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            text-align: center;
+        }
+        .media-content {
+            width: 100%;
+            margin-bottom: 1rem;
+        }
+        .media-content img {
+            max-width: 100%;
+            border-radius: 8px;
+        }
+        .media-content video {
+            width: 100%;
+            border-radius: 8px;
+        }
+        .media-content audio {
+            width: 100%;
+        }
+        
+        /* أنماط الإعلانات */
+        .ad-container {
+            background-color: #f8f9fa;
+            border: 1px dashed #3498db;
+            border-radius: 8px;
+            padding: 1rem;
+            margin: 1.5rem 0;
+            text-align: center;
+            min-height: 100px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+        .ad-container.horizontal {
+            grid-column: 1 / -1;
+            height: 100px;
+        }
+        .ad-container.vertical {
+            min-height: 250px;
+        }
+        .ad-label {
+            font-size: 0.8rem;
+            color: #7f8c8d;
+            margin-bottom: 0.5rem;
+        }
+        
+        /* تذييل الصفحة */
+        footer {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+            margin-top: 2rem;
+        }
+        .footer-ads {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1rem;
+            margin-bottom: 1rem;
+        }
+        
+        /* رموز الخطوط */
+        @font-face {
+            font-family: 'FontAwesome';
+            src: url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2') format('woff2');
+        }
+        .fa {
+            font-family: 'FontAwesome';
+            font-style: normal;
+        }
+        
+        /* التجاوب مع الأجهزة المختلفة */
+        @media (max-width: 768px) {
+            nav {
+                flex-direction: column;
+                align-items: center;
+            }
+            .content-grid {
+                grid-template-columns: 1fr;
+            }
+            .ad-container.horizontal {
+                height: auto;
+            }
+        }
+    </style>
+    <!-- رابط لخط Font Awesome للرموز -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <!-- إعلان الهيدر -->
+    <div class="header-ad">
+        <div class="ad-label">إعلان</div>
+        <div>هذه مساحة إعلانية يمكنك استبدالها بكود الإعلان الخاص بك</div>
+    </div>
+
+    <!-- الصفحة الرئيسية -->
+    <div id="mainApp">
+        <header>
+            <h1>نظام المحتوى المتكامل</h1>
+        </header>
+        <nav>
+            <a href="#" onclick="showSection('dashboard')"><i class="fa fa-home"></i> الرئيسية</a>
+            <a href="#" onclick="showSection('apps')"><i class="fa fa-mobile"></i> التطبيقات</a>
+            <a href="#" onclick="showSection('tools')"><i class="fa fa-wrench"></i> الأدوات</a>
+            <a href="#" onclick="showSection('posts')"><i class="fa fa-newspaper-o"></i> المنشورات</a>
+            <a href="#" onclick="showSection('media')"><i class="fa fa-photo"></i> الوسائط</a>
+        </nav>
+
+        <!-- لوحة التحكم -->
+        <div id="dashboard" class="dashboard">
+            <!-- إعلان أفقي -->
+            <div class="ad-container horizontal">
+                <div class="ad-label">إعلان</div>
+                <div>هذه مساحة إعلانية أفقية يمكن استبدالها بكود الإعلان</div>
+            </div>
+            
+            <div class="welcome-msg">
+                <h1>مرحباً بكم في نظام المحتوى المتكامل</h1>
+                <p>هذا الموقع لعرض المحتوى فقط، جميع التعديلات تتم من خلال الكود المصدري</p>
+            </div>
+            
+            <div class="sections-grid">
+                <div class="section-card">
+                    <i class="fa fa-mobile"></i>
+                    <h2>التطبيقات</h2>
+                    <p>عرض التطبيقات المتاحة للتحميل</p>
+                    <a href="#" onclick="showSection('apps')">تصفح التطبيقات</a>
+                </div>
+                
+                <!-- إعلان داخل الشبكة -->
+                <div class="ad-container">
+                    <div class="ad-label">إعلان</div>
+                    <div>مساحة إعلانية داخلية</div>
+                </div>
+                
+                <div class="section-card">
+                    <i class="fa fa-wrench"></i>
+                    <h2>الأدوات</h2>
+                    <p>عرض الأدوات والروابط المفيدة</p>
+                    <a href="#" onclick="showSection('tools')">تصفح الأدوات</a>
+                </div>
+                
+                <div class="section-card">
+                    <i class="fa fa-newspaper-o"></i>
+                    <h2>المنشورات</h2>
+                    <p>عرض المقالات والمنشورات</p>
+                    <a href="#" onclick="showSection('posts')">تصفح المنشورات</a>
+                </div>
+                
+                <div class="section-card">
+                    <i class="fa fa-photo"></i>
+                    <h2>الوسائط</h2>
+                    <p>عرض الصور والفيديوهات والملفات الصوتية</p>
+                    <a href="#" onclick="showSection('media')">تصفح الوسائط</a>
+                </div>
+            </div>
+            
+            <!-- إعلان أفقي آخر -->
+            <div class="ad-container horizontal">
+                <div class="ad-label">إعلان</div>
+                <div>مساحة إعلانية أسفل المحتوى الرئيسي</div>
+            </div>
+        </div>
+
+        <!-- قسم التطبيقات -->
+        <div id="apps" class="content-page" style="display: none;">
+            <h1 class="page-title"><i class="fa fa-mobile"></i> التطبيقات</h1>
+            
+            <!-- إعلان رأسي -->
+            <div class="ad-container vertical">
+                <div class="ad-label">إعلان</div>
+                <div>مساحة إعلانية رأسية بجانب المحتوى</div>
+            </div>
+            
+            <div class="content-grid" id="appsGrid">
+                <!-- سيتم تعبئة التطبيقات هنا ديناميكياً -->
+            </div>
+        </div>
+
+        <!-- قسم الأدوات -->
+        <div id="tools" class="content-page" style="display: none;">
+            <h1 class="page-title"><i class="fa fa-wrench"></i> الأدوات</h1>
+            
+            <div class="content-grid" id="toolsGrid">
+                <!-- سيتم تعبئة الأدوات هنا ديناميكياً -->
+            </div>
+            
+            <!-- إعلان أسفل المحتوى -->
+            <div class="ad-container" style="margin-top: 30px; text-align: center;">
+                <div class="ad-label" style="font-weight: bold; margin-bottom: 5px;">إعلان</div>
+                <div>مساحة إعلانية أسفل قسم الأدوات</div>
+            </div>
+        </div>
+
+        <!-- قسم المنشورات -->
+        <div id="posts" class="content-page" style="display: none;">
+            <h1 class="page-title"><i class="fa fa-newspaper-o"></i> المنشورات</h1>
+            
+            <div class="content-grid" id="postsGrid">
+                <!-- سيتم تعبئة المنشورات هنا ديناميكياً -->
+            </div>
+        </div>
+
+        <!-- قسم الوسائط -->
+        <div id="media" class="content-page" style="display: none;">
+            <h1 class="page-title"><i class="fa fa-photo"></i> الوسائط</h1>
+            
+            <div class="content-grid" id="mediaGrid">
+                <!-- سيتم تعبئة الوسائط هنا ديناميكياً -->
+            </div>
+        </div>
+        
+        <footer>
+            <!-- إعلانات الفوتر -->
+            <div class="footer-ads">
+                <div class="ad-container">
+                    <div class="ad-label">إعلان</div>
+                    <div>إعلان فوتر 1</div>
+                </div>
+                <div class="ad-container">
+                    <div class="ad-label">إعلان</div>
+                    <div>إعلان فوتر 2</div>
+                </div>
+            </div>
+            
+            <p>جميع الحقوق محفوظة &copy; <span id="year"></span></p>
+        </footer>
+    </div>
+
+    <script>
+        /*
+        ============================================
+        إعدادات الموقع - يمكنك التعديل على هذه القسم
+        ============================================
+        */
+
+        // لون خلفية الموقع (يمكن تغييره)
+        // document.body.style.backgroundColor = "#f5f9ff";
+
+        /*
+        ============================================
+        بيانات المحتوى (يتم التعديل عليها يدويًا في الكود)
+        ============================================
+        */
+
+        const contentData = {
+            apps: [
+                // نموذج لإضافة تطبيق جديد
+                {
+                    id: 1,
+                    title: "تطبيق إدارة المهام",
+                    description: "تطبيق يساعدك على تنظيم وإدارة مهامك اليومية بشكل فعال",
+                    version: "1.0",
+                    size: "15MB",
+                    image: "https://via.placeholder.com/300",
+                    downloadLink: "https://example.com/app1.apk",
+                    detailsLink: "#",
+                    date: "2023-05-15"
+                },
+                {
+                    id: 2,
+                    title: "تطبيق الطقس",
+                    description: "تطبيق يعرض توقعات الطقس بدقة لأي مدينة في العالم",
+                    version: "2.1",
+                    size: "8MB",
+                    image: "https://via.placeholder.com/300",
+                    downloadLink: "https://example.com/app2.apk",
+                    detailsLink: "#",
+                    date: "2023-06-20"
+                }
+                // يمكن إضافة المزيد من التطبيقات هنا
+            ],
+            tools: [
+                // نموذج لإضافة أداة جديدة
+                {
+                    id: 1,
+                    title: "أداة تحرير الصور",
+                    description: "أداة متقدمة لتحرير الصور عبر الإنترنت بدون الحاجة لتنزيل برامج",
+                    link: "https://example.com/image-editor",
+                    icon: "https://via.placeholder.com/100",
+                    date: "2023-04-10"
+                },
+                {
+                    id: 2,
+                    title: "أداة ضغط الملفات",
+                    description: "أداة لضغط الملفات وتقليل حجمها مع الحفاظ على الجودة",
+                    link: "https://example.com/file-compressor",
+                    icon: "https://via.placeholder.com/100",
+                    date: "2023-05-22"
+                }
+                // يمكن إضافة المزيد من الأدوات هنا
+            ],
+            posts: [
+                // نموذج لإضافة منشور جديد
+                {
+                    id: 1,
+                    title: "نصائح لتحسين الإنتاجية",
+                    description: "في هذا المقال نقدم لكم مجموعة من النصائح المهمة لتحسين الإنتاجية في العمل والحياة اليومية",
+                    image: "https://via.placeholder.com/600x400",
+                    date: "2023-06-01",
+                    content: "المحتوى الكامل للمقال يذهب هنا..."
+                },
+                {
+                    id: 2,
+                    title: "أفضل التطبيقات لعام 2023",
+                    description: "تعرف على قائمة أفضل التطبيقات التي نوصي بها لهذا العام",
+                    image: "https://via.placeholder.com/600x400",
+                    date: "2023-06-15",
+                    content: "المحتوى الكامل للمقال يذهب هنا..."
+                }
+                // يمكن إضافة المزيد من المنشورات هنا
+            ],
+            media: [
+                // نموذج لإضافة وسائط جديدة
+                {
+                    id: 1,
+                    title: "صورة توضيحية للإنتاجية",
+                    description: "صورة توضح مفهوم الإنتاجية وأساليب تحسينها",
+                    type: "image",
+                    url: "https://via.placeholder.com/600x400",
+                    date: "2023-05-10"
+                },
+                {
+                    id: 2,
+                    title: "فيديو تعليمي للبرمجة",
+                    description: "فيديو يشرح أساسيات البرمجة للمبتدئين",
+                    type: "video",
+                    embed: '<iframe width="100%" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>',
+                    date: "2023-06-05"
+                },
+                {
+                    id: 3,
+                    title: "ملف صوتي عن التسويق",
+                    description: "بودكاست يتحدث عن استراتيجيات التسويق الحديثة",
+                    type: "audio",
+                    url: "https://example.com/audio.mp3",
+                    date: "2023-06-12"
+                }
+                // يمكن إضافة المزيد من الوسائط هنا
+            ]
+        };
+
+        /*
+        ============================================
+        نهاية قسم الإعدادات - لا تقم بالتعديل بعد هذا السطر
+        ============================================
+        */
+
+        // تحميل الصفحة
+        document.addEventListener('DOMContentLoaded', function() {
+            // إعداد سنة التذييل
+            document.getElementById('year').textContent = new Date().getFullYear();
+            
+            // عرض المحتوى
+            renderContent();
+            
+            // عرض الصفحة الرئيسية
+            showSection('dashboard');
+            
+            // يمكنك إضافة كود الإعلانات هنا مثل Google AdSense
+            // loadAds();
+        });
+        
+        // وظيفة لتحميل الإعلانات (اختيارية)
+        function loadAds() {
+            // مثال على إضافة Google AdSense
+            /*
+            const script = document.createElement('script');
+            script.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXX';
+            script.async = true;
+            script.crossOrigin = 'anonymous';
+            document.head.appendChild(script);
+            */
+        }
+        
+        // وظائف مساعدة
+        function showSection(sectionId) {
+            // إخفاء جميع الأقسام
+            document.querySelectorAll('.content-page, .dashboard').forEach(el => {
+                el.style.display = 'none';
+            });
+            
+            // إظهار القسم المطلوب
+            document.getElementById(sectionId).style.display = 'block';
+        }
+        
+        function renderContent() {
+            renderApps();
+            renderTools();
+            renderPosts();
+            renderMedia();
+        }
+        
+        function renderApps() {
+            const appsGrid = document.getElementById('appsGrid');
+            appsGrid.innerHTML = '';
+            
+            contentData.apps.forEach(app => {
+                appsGrid.innerHTML += `
+                    <div class="app-card">
+                        <img src="${app.image}" alt="${app.title}" class="app-icon">
+                        <h3 class="app-title">${app.title}</h3>
+                        <p class="app-description">${app.description}</p>
+                        <div class="app-meta">
+                            <span class="app-version">الإصدار: ${app.version}</span>
+                            <span class="app-size">الحجم: ${app.size}</span>
+                        </div>
+                        <div class="actions">
+                            ${app.downloadLink ? `<a href="${app.downloadLink}" class="download-btn" download><i class="fa fa-download"></i> تنزيل مباشر</a>` : ''}
+                            ${app.detailsLink ? `<a href="${app.detailsLink}" class="view">تفاصيل التطبيق</a>` : ''}
+                        </div>
+                        <small>تاريخ الإضافة: ${app.date}</small>
+                    </div>
+                `;
+            });
+        }
+        
+        function renderTools() {
+            const toolsGrid = document.getElementById('toolsGrid');
+            toolsGrid.innerHTML = '';
+            
+            contentData.tools.forEach(tool => {
+                toolsGrid.innerHTML += `
+                    <div class="tool-card">
+                        ${tool.icon ? `<img src="${tool.icon}" alt="${tool.title}" class="tool-icon">` : '<i class="fa fa-wrench" style="font-size: 3rem; color: #2c3e50; margin-bottom: 1rem;"></i>'}
+                        <h3>${tool.title}</h3>
+                        <p>${tool.description}</p>
+                        <small>تاريخ الإضافة: ${tool.date}</small>
+                        <div class="actions" style="margin-top: 1rem;">
+                            <a href="${tool.link}" target="_blank" class="tool-btn">
+                                <i class="fa fa-external-link"></i> زيارة الأداة
+                            </a>
+                        </div>
+                    </div>
+                `;
+            });
+        }
+        
+        function renderPosts() {
+            const postsGrid = document.getElementById('postsGrid');
+            postsGrid.innerHTML = '';
+            
+            contentData.posts.forEach(post => {
+                postsGrid.innerHTML += `
+                    <div class="post-card">
+                        ${post.image ? `<img src="${post.image}" alt="${post.title}" class="post-image">` : ''}
+                        <h3>${post.title}</h3>
+                        <p>${post.description}</p>
+                        <small>تاريخ النشر: ${post.date}</small>
+                        <div class="actions" style="margin-top: 1rem;">
+                            <a href="#" class="view" onclick="viewPost(${post.id})">
+                                <i class="fa fa-book"></i> قراءة المزيد
+                            </a>
+                        </div>
+                    </div>
+                `;
+            });
+        }
+        
+        function renderMedia() {
+            const mediaGrid = document.getElementById('mediaGrid');
+            mediaGrid.innerHTML = '';
+            
+            contentData.media.forEach(media => {
+                let mediaContent = '';
+                
+                if(media.type === 'image') {
+                    mediaContent = `<img src="${media.url}" alt="${media.title}" class="media-content">`;
+                } else if(media.type === 'video') {
+                    mediaContent = `<div class="media-content">${media.embed}</div>`;
+                } else if(media.type === 'audio') {
+                    mediaContent = `
+                        <div class="media-content">
+                            <audio controls style="width: 100%;">
+                                <source src="${media.url}" type="audio/mpeg">
+                                متصفحك لا يدعم تشغيل الصوتيات.
+                            </audio>
+                        </div>
+                    `;
+                }
+                
+                mediaGrid.innerHTML += `
+                    <div class="media-card">
+                        <h3>${media.title}</h3>
+                        ${mediaContent}
+                        <p>${media.description}</p>
+                        <small>تاريخ الإضافة: ${media.date}</small>
+                    </div>
+                `;
+            });
+        }
+        
+        function viewPost(postId) {
+            const post = contentData.posts.find(p => p.id === postId);
+            if (post) {
+                alert(`عرض المنشور: ${post.title}\n\n${post.content}`);
+            }
+        }
+        
+        function getTypeName(type) {
+            switch(type) {
+                case 'app': return 'تطبيق';
+                case 'tool': return 'أداة';
+                case 'post': return 'منشور';
+                case 'media': return 'وسائط';
+                case 'image': return 'صورة';
+                case 'video': return 'فيديو';
+                case 'audio': return 'صوت';
+                default: return 'محتوى';
+            }
+        }
+    </script>
+</body>
+  </html>
