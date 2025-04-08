@@ -328,19 +328,84 @@
         </div>
 
         <!-- قسم التطبيقات -->
-        <div id="apps" class="content-page" style="display: none;">
-            <h1 class="page-title"><i class="fa fa-mobile"></i> التطبيقات</h1>
-            
-            <!-- إعلان رأسي -->
-            <div class="ad-container vertical">
-                <div class="ad-label">إعلان</div>
-                <div>مساحة إعلانية رأسية بجانب المحتوى</div>
+<div id="apps" class="content-page" style="display: none;">
+    <h1 class="page-title"><i class="fa fa-mobile"></i> التطبيقات</h1>
+    
+    <!-- إعلان رأسي -->
+    <div class="ad-container vertical">
+        <div class="ad-label">إعلان</div>
+        <div>مساحة إعلانية رأسية بجانب المحتوى</div>
+    </div>
+    
+    <div class="content-grid" id="appsGrid">
+        <!-- مثال لتطبيق مع رابط تنزيل -->
+        <div class="app-card">
+            <img src="images/app-icon.png" alt="اسم التطبيق" class="app-icon">
+            <h3 class="app-title">اسم التطبيق</h3>
+            <p class="app-description">وصف مختصر للتطبيق ووظائفه الرئيسية</p>
+            <div class="app-meta">
+                <span class="app-version">الإصدار: 1.0</span>
+                <span class="app-size">الحجم: 15MB</span>
             </div>
-            
-            <div class="content-grid" id="appsGrid">
-                <!-- سيتم ملؤها ديناميكياً -->
-            </div>
+            <a href="link" class="download-btn" download>
+                <i class="fa fa-download"></i> تنزيل مباشر
+            </a>
         </div>
+        
+        <!-- نموذج آخر -->
+        <div class="app-card">
+            <img src="link" alt="اسم التطبيق 2" class="app-icon">
+            <h3 class="app-title">تطبيق آخر</h3>
+            <p class="app-description">وصف آخر للتطبيق</p>
+            <div class="app-meta">
+                <span class="app-version">الإصدار: 2.1</span>
+                <span class="app-size">الحجم: 20MB</span>
+            </div>
+            <a href="link" class="download-btn" download>
+                <i class="fa fa-download"></i> تنزيل مباشر
+            </a>
+        </div>
+    </div>
+</div>
+
+<style>
+    .app-card {
+        background: #fff;
+        border-radius: 10px;
+        padding: 15px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        text-align: center;
+        margin: 10px;
+    }
+
+    .app-icon {
+        width: 80px;
+        height: 80px;
+        border-radius: 15px;
+        margin-bottom: 10px;
+    }
+
+    .download-btn {
+        display: inline-block;
+        background: #4CAF50;
+        color: white;
+        padding: 8px 15px;
+        border-radius: 5px;
+        text-decoration: none;
+        margin-top: 10px;
+    }
+
+    .download-btn:hover {
+        background: #45a049;
+    }
+    
+    .content-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+        gap: 20px;
+        padding: 15px;
+    }
+</style>
 
         <!-- قسم الأدوات -->
         <div id="tools" class="content-page" style="display: none;">
