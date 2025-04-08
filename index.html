@@ -408,38 +408,67 @@
 </style>
 
         <!-- قسم الأدوات -->
-        <div id="tools" class="content-page" style="display: none;">
-            <h1 class="page-title"><i class="fa fa-wrench"></i> الأدوات</h1>
-            
-            <div class="content-grid" id="toolsGrid">
-                <!-- سيتم ملؤها ديناميكياً -->
-            </div>
-            
-            <!-- إعلان أسفل المحتوى -->
-            <div class="ad-container">
-                <div class="ad-label">إعلان</div>
-                <div>مساحة إعلانية أسفل قسم الأدوات</div>
-            </div>
-        </div>
+<div id="tools" class="content-page" style="display: none;">
+  <h1 class="page-title"><i class="fa fa-wrench"></i> الأدوات</h1>
+
+  <div class="content-grid" id="toolsGrid" style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <!-- أداة مثال -->
+    <div class="tool-card" style="background-color: #fff; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 15px; width: 250px; text-align: center;">
+      <img src="images/tool1.png" alt="أداة 1" style="width: 100px; height: 100px; object-fit: contain; margin-bottom: 10px;">
+      <h3 style="margin: 10px 0; font-size: 18px;">اسم الأداة</h3>
+      <a href="https://example.com/tool1" target="_blank">
+        <button style="background-color: #28a745; color: white; border: none; padding: 10px 20px; border-radius: 8px; cursor: pointer;">
+          زيارة الأداة
+        </button>
+      </a>
+    </div>
+    <!-- انسخ البلوك ده وعدله لأي أداة جديدة -->
+  </div>
+
+  <!-- إعلان أسفل المحتوى -->
+  <div class="ad-container" style="margin-top: 30px; text-align: center;">
+    <div class="ad-label" style="font-weight: bold; margin-bottom: 5px;">إعلان</div>
+    <div>مساحة إعلانية أسفل قسم الأدوات</div>
+  </div>
+</div>
 
         <!-- قسم المنشورات -->
-        <div id="posts" class="content-page" style="display: none;">
-            <h1 class="page-title"><i class="fa fa-newspaper-o"></i> المنشورات</h1>
-            
-            <div class="content-grid" id="postsGrid">
-                <!-- سيتم ملؤها ديناميكياً -->
-            </div>
-        </div>
+<div id="posts" class="content-page" style="display: none;">
+  <h1 class="page-title"><i class="fa fa-newspaper-o"></i> المنشورات</h1>
 
-        <!-- قسم الوسائط -->
-        <div id="media" class="content-page" style="display: none;">
-            <h1 class="page-title"><i class="fa fa-photo"></i> الوسائط</h1>
-            
-            <div class="content-grid" id="mediaGrid">
-                <!-- سيتم ملؤها ديناميكياً -->
-            </div>
-        </div>
-        
+  <div class="content-grid" id="postsGrid" style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <!-- مثال منشور -->
+    <div class="post-card" style="background-color: #fff; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 10px; width: 300px; text-align: center;">
+      <h3 style="margin-bottom: 10px; font-size: 18px;">عنوان المنشور</h3>
+      <img src="images/post1.jpg" alt="منشور 1" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
+    </div>
+    <!-- انسخ وعدل لكل منشور جديد -->
+  </div>
+</div>
+
+<!-- قسم الوسائط -->
+<div id="media" class="content-page" style="display: none;">
+  <h1 class="page-title"><i class="fa fa-photo"></i> الوسائط</h1>
+
+  <div class="content-grid" id="mediaGrid" style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <!-- مثال صورة -->
+    <div class="media-card" style="background-color: #fff; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 10px; width: 300px; text-align: center;">
+      <h3 style="margin-bottom: 10px; font-size: 18px;">عنوان الصورة</h3>
+      <img src="images/media1.jpg" alt="صورة 1" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
+    </div>
+
+    <!-- مثال فيديو -->
+    <div class="media-card" style="background-color: #fff; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 10px; width: 300px; text-align: center;">
+      <h3 style="margin-bottom: 10px; font-size: 18px;">عنوان الفيديو</h3>
+      <video width="100%" height="200" controls>
+        <source src="videos/video1.mp4" type="video/mp4">
+        متصفحك لا يدعم تشغيل الفيديو.
+      </video>
+    </div>
+
+    <!-- يمكنك إضافة المزيد من الصور أو الفيديوهات بنفس الشكل -->
+  </div>
+</div>
         <footer>
             <!-- إعلانات الفوتر -->
             <div class="footer-ads">
