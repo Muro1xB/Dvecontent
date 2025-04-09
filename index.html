@@ -454,7 +454,7 @@
             </div>
         </div>
 
-   <div id="tools" class="content-page" style="display: none;">
+<div id="tools" class="content-page" style="display: none;">
     <h1 class="page-title"><i class="fa fa-wrench"></i> الأدوات</h1>
     
     <div class="content-grid" id="toolsGrid">
@@ -479,6 +479,7 @@
         border-radius: 10px;
         cursor: pointer;
         transition: all 0.3s;
+        overflow: hidden; /* يخفي أي جزء يتجاوز المربع */
     }
     
     .tool-item:hover {
@@ -487,12 +488,9 @@
     }
     
     .tool-icon {
-        font-size: 2.5rem; /* حجم الأيقونة */
         width: 100%;
         height: 100%;
-        display: flex;
-        align-items: center;
-        justify-content: center;
+        object-fit: cover; /* يجعل الصورة تغطي المساحة مع الحفاظ على النسب */
     }
 </style>
         <!-- قسم الأدوات -->
