@@ -1,0 +1,1271 @@
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\CraxsRat.exe
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\CraxsRat.pdb
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\DrakeUI.Framework.dll
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\Guna.UI2.dll
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\NAudio.Core.dll
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\NAudio.WinMM.dll
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\SipaaFramework.dll
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\System.Security.AccessControl.dll
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\NAudio.Core.xml
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\NAudio.WinMM.xml
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\System.Security.AccessControl.xml
+C:\Users\bakla\Desktop\Eagle - src\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\CraxsRat.csproj.AssemblyReference.cache
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\CraxsRat.g.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Faker.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Jector.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Applications.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Build.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Eaglepopup.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.EagleSpyMain.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Microphone.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.PermissionsManager.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Ports.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Resources.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.ScreenShoter.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Settings.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.tipfirewalltracker.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Updater.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.AccountManager.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.AddNumber.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.alertform.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eaglespy.ApkBuilder.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Apkinstaller.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.AppsProperties.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.CallPhone.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.CallsManager.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Calls_Records.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.CameraManager.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.ClipboardManager.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.comptableform.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.ContactsManager.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Dialog1.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Dialog2.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.DialogPloice.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Drooper.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.FileManager.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.Keylogger.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.LanguageSelector.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.LocationManager.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.ScreenReader.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.SelfRemove.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.smsMaker.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.SMSManager.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\CraxsRat.csproj.GenerateResource.cache
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\CraxsRat.csproj.CoreCompileInputs.cache
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\CraxsRat.csproj.Up2Date
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\CraxsRat.exe
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\CraxsRat.pdb
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\CraxsySettinngs.resources
+C:\Users\bakla\Desktop\Eagle - src\obj\Debug\Eagle_Spy.CraxsMsgbox.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\CraxsRat.csproj.AssemblyReference.cache
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\CraxsRat.g.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\CraxsRat.exe
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\CraxsRat.pdb
+C:\Users\bakla\Desktop\Craxs - src\bin\Debug\CraxsRat.exe
+C:\Users\bakla\Desktop\Craxs - src\bin\Debug\CraxsRat.pdb
+C:\Users\bakla\Desktop\Craxs - src\bin\Debug\DrakeUI.Framework.dll
+C:\Users\bakla\Desktop\Craxs - src\bin\Debug\Guna.UI2.dll
+C:\Users\bakla\Desktop\Craxs - src\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\bakla\Desktop\Craxs - src\bin\Debug\NAudio.Core.dll
+C:\Users\bakla\Desktop\Craxs - src\bin\Debug\NAudio.WinMM.dll
+C:\Users\bakla\Desktop\Craxs - src\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bakla\Desktop\Craxs - src\bin\Debug\SipaaFramework.dll
+C:\Users\bakla\Desktop\Craxs - src\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\bakla\Desktop\Craxs - src\bin\Debug\System.Security.AccessControl.dll
+C:\Users\bakla\Desktop\Craxs - src\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\bakla\Desktop\Craxs - src\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\bakla\Desktop\Craxs - src\bin\Debug\NAudio.Core.xml
+C:\Users\bakla\Desktop\Craxs - src\bin\Debug\NAudio.WinMM.xml
+C:\Users\bakla\Desktop\Craxs - src\bin\Debug\System.Security.AccessControl.xml
+C:\Users\bakla\Desktop\Craxs - src\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\CraxsySettinngs.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Faker.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Jector.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.Applications.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.PermissionsManager.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.AccountManager.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.AddNumber.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.alertform.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.Apkinstaller.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.AppsProperties.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.CallPhone.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.CallsManager.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.Calls_Records.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.CameraManager.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.ClipboardManager.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.comptableform.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.ContactsManager.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.Dialog1.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.Dialog2.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.DialogPloice.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.Drooper.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.CraxsMsgbox.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.FileManager.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.Keylogger.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.LanguageSelector.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.LocationManager.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.ScreenReader.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.SelfRemove.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.smsMaker.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.SMSManager.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\CraxsRat.csproj.GenerateResource.cache
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\CraxsRat.csproj.CoreCompileInputs.cache
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\CraxsRat.csproj.Up2Date
+C:\Users\bakla\Desktop\Craxs - src\bin\Debug\LiveCharts.dll
+C:\Users\bakla\Desktop\Craxs - src\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\bakla\Desktop\Craxs - src\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\bakla\Desktop\Craxs - src\bin\Debug\WinMM.Net.dll
+C:\Users\bakla\Desktop\Craxs - src\bin\Debug\LiveCharts.pdb
+C:\Users\bakla\Desktop\Craxs - src\bin\Debug\LiveCharts.xml
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Build.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\CraxsRat.tipfirewalltracker.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\CraxsRat.Updater.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\CraxsRat.Eaglepopup.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Craxs_Rat.Settings.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Craxs_Rat.ScreenShoter.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Craxs_Rat.Build.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Craxs_Rat.Microphone.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Craxs_Rat.Craxs_RatMain.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Craxs_Rat.Resources.resources
+C:\Users\bakla\Desktop\Craxs - src\obj\Debug\Eagle_Spy.Ports.resources
+C:\Users\bakla\Desktop\CraxsRat Src\bin\Debug\CraxsRat.exe
+C:\Users\bakla\Desktop\CraxsRat Src\bin\Debug\CraxsRat.pdb
+C:\Users\bakla\Desktop\CraxsRat Src\bin\Debug\DrakeUI.Framework.dll
+C:\Users\bakla\Desktop\CraxsRat Src\bin\Debug\Guna.UI2.dll
+C:\Users\bakla\Desktop\CraxsRat Src\bin\Debug\LiveCharts.dll
+C:\Users\bakla\Desktop\CraxsRat Src\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\bakla\Desktop\CraxsRat Src\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\bakla\Desktop\CraxsRat Src\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\bakla\Desktop\CraxsRat Src\bin\Debug\NAudio.Core.dll
+C:\Users\bakla\Desktop\CraxsRat Src\bin\Debug\NAudio.WinMM.dll
+C:\Users\bakla\Desktop\CraxsRat Src\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bakla\Desktop\CraxsRat Src\bin\Debug\SipaaFramework.dll
+C:\Users\bakla\Desktop\CraxsRat Src\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\bakla\Desktop\CraxsRat Src\bin\Debug\System.Security.AccessControl.dll
+C:\Users\bakla\Desktop\CraxsRat Src\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\bakla\Desktop\CraxsRat Src\bin\Debug\WinMM.Net.dll
+C:\Users\bakla\Desktop\CraxsRat Src\bin\Debug\LiveCharts.pdb
+C:\Users\bakla\Desktop\CraxsRat Src\bin\Debug\LiveCharts.xml
+C:\Users\bakla\Desktop\CraxsRat Src\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\bakla\Desktop\CraxsRat Src\bin\Debug\NAudio.Core.xml
+C:\Users\bakla\Desktop\CraxsRat Src\bin\Debug\NAudio.WinMM.xml
+C:\Users\bakla\Desktop\CraxsRat Src\bin\Debug\System.Security.AccessControl.xml
+C:\Users\bakla\Desktop\CraxsRat Src\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\CraxsRat.csproj.AssemblyReference.cache
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\CraxsRat.g.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Build.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\CraxsySettinngs.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Faker.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Jector.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Applications.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Craxs_Rat.Build.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\CraxsRat.Eaglepopup.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Craxs_Rat.Craxs_RatMain.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Craxs_Rat.Microphone.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.PermissionsManager.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Ports.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Craxs_Rat.Resources.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Craxs_Rat.ScreenShoter.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Craxs_Rat.Settings.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\CraxsRat.tipfirewalltracker.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\CraxsRat.Updater.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.AccountManager.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.AddNumber.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.alertform.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Apkinstaller.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.AppsProperties.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.CallPhone.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.CallsManager.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Calls_Records.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.CameraManager.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.ClipboardManager.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.comptableform.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.ContactsManager.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Dialog1.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Dialog2.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.DialogPloice.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Drooper.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.CraxsMsgbox.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.FileManager.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Keylogger.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.LanguageSelector.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.LocationManager.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.ScreenReader.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.SelfRemove.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.smsMaker.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.SMSManager.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\CraxsRat.csproj.GenerateResource.cache
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\CraxsRat.csproj.CoreCompileInputs.cache
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\CraxsRat.csproj.Up2Date
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\CraxsRat.exe
+C:\Users\bakla\Desktop\CraxsRat Src\obj\Debug\CraxsRat.pdb
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\bin\Debug\DrakeUI.Framework.dll
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\bin\Debug\Guna.UI2.dll
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\bin\Debug\LiveCharts.dll
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\bin\Debug\NAudio.Core.dll
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\bin\Debug\NAudio.WinMM.dll
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\bin\Debug\SipaaFramework.dll
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\bin\Debug\System.Security.AccessControl.dll
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\bin\Debug\WinMM.Net.dll
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\bin\Debug\LiveCharts.pdb
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\bin\Debug\LiveCharts.xml
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\bin\Debug\NAudio.Core.xml
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\bin\Debug\NAudio.WinMM.xml
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\bin\Debug\System.Security.AccessControl.xml
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\CraxsRat.csproj.AssemblyReference.cache
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Build.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\CraxsySettinngs.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Faker.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Jector.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Applications.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Craxs_Rat.Build.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\CraxsRat.Eaglepopup.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Craxs_Rat.Craxs_RatMain.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Craxs_Rat.Microphone.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.PermissionsManager.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Ports.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Craxs_Rat.Resources.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Craxs_Rat.ScreenShoter.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Craxs_Rat.Settings.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\CraxsRat.tipfirewalltracker.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\CraxsRat.Updater.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.AccountManager.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.AddNumber.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.alertform.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Apkinstaller.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.AppsProperties.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.CallPhone.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.CallsManager.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Calls_Records.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.CameraManager.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.ClipboardManager.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.comptableform.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.ContactsManager.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Dialog1.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Dialog2.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.DialogPloice.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Drooper.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.CraxsMsgbox.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.FileManager.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Keylogger.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.LanguageSelector.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.LocationManager.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.ScreenReader.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.SelfRemove.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.smsMaker.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.SMSManager.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\CraxsRat.csproj.GenerateResource.cache
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\CraxsRat.csproj.CoreCompileInputs.cache
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\CraxsRat.csproj.Up2Date
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\bin\Debug\CraxsRat v7.4.exe
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\bin\Debug\CraxsRat v7.4.pdb
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\CraxsRat v7.4.g.resources
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\CraxsRat v7.4.exe
+C:\Users\mrsre\Downloads\Telegram Desktop\CraxsRat V7.2 Src\CraxsRat Src\obj\Debug\CraxsRat v7.4.pdb
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\CraxsRat v7.4.exe
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\CraxsRat v7.4.pdb
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\DrakeUI.Framework.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\Guna.UI2.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\LiveCharts.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\NAudio.Core.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\NAudio.WinMM.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\SipaaFramework.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\System.Security.AccessControl.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\WinMM.Net.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\LiveCharts.pdb
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\LiveCharts.xml
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\NAudio.Core.xml
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\NAudio.WinMM.xml
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\System.Security.AccessControl.xml
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\CraxsRat.csproj.AssemblyReference.cache
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\CraxsRat v7.4.g.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Build.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\CraxsySettinngs.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Faker.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Jector.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Applications.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Craxs_Rat.Build.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\CraxsRat.Eaglepopup.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Craxs_Rat.Craxs_RatMain.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Craxs_Rat.Microphone.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.PermissionsManager.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Ports.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Craxs_Rat.Resources.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Craxs_Rat.ScreenShoter.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Craxs_Rat.Settings.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\CraxsRat.tipfirewalltracker.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\CraxsRat.Updater.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.AccountManager.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.AddNumber.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.alertform.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Apkinstaller.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.AppsProperties.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.CallPhone.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.CallsManager.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Calls_Records.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.CameraManager.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.ClipboardManager.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.comptableform.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.ContactsManager.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Dialog1.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Dialog2.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.DialogPloice.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Drooper.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.CraxsMsgbox.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.FileManager.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Keylogger.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.LanguageSelector.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.LocationManager.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.ScreenReader.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.SelfRemove.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.smsMaker.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.SMSManager.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\CraxsRat.csproj.GenerateResource.cache
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\CraxsRat.csproj.CoreCompileInputs.cache
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\CraxsRat.csproj.Up2Date
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\CraxsRat v7.4.exe
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\CraxsRat v7.4.pdb
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\CraxsRat.csproj.AssemblyReference.cache
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\CraxsRat v7.4.g.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Build.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\CraxsySettinngs.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Faker.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Jector.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Craxs_Rat.Build.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\CraxsRat.Eaglepopup.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Craxs_Rat.Craxs_RatMain.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Craxs_Rat.Microphone.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.PermissionsManager.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Ports.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Craxs_Rat.Resources.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Craxs_Rat.ScreenShoter.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Craxs_Rat.Settings.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\CraxsRat.tipfirewalltracker.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\CraxsRat.Updater.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.AccountManager.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.AddNumber.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.alertform.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Apkinstaller.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.AppsProperties.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.CallPhone.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.CallsManager.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Calls_Records.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.CameraManager.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.ClipboardManager.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.comptableform.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.ContactsManager.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Dialog1.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Dialog2.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.DialogPloice.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Drooper.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.CraxsMsgbox.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.FileManager.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Keylogger.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.LanguageSelector.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.LocationManager.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.ScreenReader.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.SelfRemove.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.smsMaker.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.SMSManager.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\CraxsRat.csproj.GenerateResource.cache
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\CraxsRat v7.4.exe
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\CraxsRat v7.4.pdb
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\CraxsRat v7.4.exe
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\CraxsRat v7.4.pdb
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\DrakeUI.Framework.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\Guna.UI2.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\LiveCharts.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\NAudio.Core.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\NAudio.WinMM.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\SipaaFramework.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\System.Security.AccessControl.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\WinMM.Net.dll
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\LiveCharts.pdb
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\LiveCharts.xml
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\NAudio.Core.xml
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\NAudio.WinMM.xml
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\System.Security.AccessControl.xml
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\Eagle_Spy.Applications.resources
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\CraxsRat.csproj.CoreCompileInputs.cache
+C:\Users\mrsre\Desktop\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat V7.4 Src\CraxsRat Src\obj\Debug\CraxsRat.csproj.Up2Date
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\CraxsRat.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\CraxsRat v7.4.g.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Build.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\CraxsySettinngs.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Faker.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Jector.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Applications.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Craxs_Rat.Build.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\CraxsRat.Eaglepopup.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Craxs_Rat.Craxs_RatMain.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Craxs_Rat.Microphone.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.PermissionsManager.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Ports.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Craxs_Rat.Resources.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Craxs_Rat.ScreenShoter.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Craxs_Rat.Settings.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\CraxsRat.tipfirewalltracker.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\CraxsRat.Updater.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.AccountManager.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.AddNumber.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.alertform.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Apkinstaller.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.AppsProperties.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.CallPhone.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.CallsManager.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Calls_Records.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.CameraManager.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.ClipboardManager.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.comptableform.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.ContactsManager.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Dialog1.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Dialog2.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.DialogPloice.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Drooper.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.CraxsMsgbox.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.FileManager.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Keylogger.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.LanguageSelector.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.LocationManager.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.ScreenReader.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.SelfRemove.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.smsMaker.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.SMSManager.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\CraxsRat.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\CraxsRat.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CraxsRat Src\bin\Debug\CraxsRat v7.4.exe
+C:\Users\Administrator\Desktop\CraxsRat Src\bin\Debug\CraxsRat v7.4.pdb
+C:\Users\Administrator\Desktop\CraxsRat Src\bin\Debug\DrakeUI.Framework.dll
+C:\Users\Administrator\Desktop\CraxsRat Src\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Desktop\CraxsRat Src\bin\Debug\LiveCharts.dll
+C:\Users\Administrator\Desktop\CraxsRat Src\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Administrator\Desktop\CraxsRat Src\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Administrator\Desktop\CraxsRat Src\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Administrator\Desktop\CraxsRat Src\bin\Debug\NAudio.Core.dll
+C:\Users\Administrator\Desktop\CraxsRat Src\bin\Debug\NAudio.WinMM.dll
+C:\Users\Administrator\Desktop\CraxsRat Src\bin\Debug\SipaaFramework.dll
+C:\Users\Administrator\Desktop\CraxsRat Src\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Administrator\Desktop\CraxsRat Src\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Administrator\Desktop\CraxsRat Src\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Desktop\CraxsRat Src\bin\Debug\WinMM.Net.dll
+C:\Users\Administrator\Desktop\CraxsRat Src\bin\Debug\LiveCharts.pdb
+C:\Users\Administrator\Desktop\CraxsRat Src\bin\Debug\LiveCharts.xml
+C:\Users\Administrator\Desktop\CraxsRat Src\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Administrator\Desktop\CraxsRat Src\bin\Debug\NAudio.Core.xml
+C:\Users\Administrator\Desktop\CraxsRat Src\bin\Debug\NAudio.WinMM.xml
+C:\Users\Administrator\Desktop\CraxsRat Src\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Administrator\Desktop\CraxsRat Src\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\CraxsRat.csproj.Up2Date
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\CraxsRat v7.4.exe
+C:\Users\Administrator\Desktop\CraxsRat Src\obj\Debug\CraxsRat v7.4.pdb
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\CraxsRat.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\CraxsRat v7.4.g.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\CraxsRat v7.4.exe
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\CraxsRat v7.4.pdb
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\bin\Debug\CraxsRat v7.4.exe
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\bin\Debug\CraxsRat v7.4.pdb
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\bin\Debug\DrakeUI.Framework.dll
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\bin\Debug\Guna.UI2.dll
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\bin\Debug\LiveCharts.dll
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\bin\Debug\NAudio.Core.dll
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\bin\Debug\NAudio.WinMM.dll
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\bin\Debug\SipaaFramework.dll
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\bin\Debug\System.Security.AccessControl.dll
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\bin\Debug\WinMM.Net.dll
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\bin\Debug\LiveCharts.pdb
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\bin\Debug\LiveCharts.xml
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\bin\Debug\NAudio.Core.xml
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\bin\Debug\NAudio.WinMM.xml
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\bin\Debug\System.Security.AccessControl.xml
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Build.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\CraxsySettinngs.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Faker.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Jector.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.Applications.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Craxs_Rat.Build.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\CraxsRat.Eaglepopup.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Craxs_Rat.Craxs_RatMain.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Craxs_Rat.Microphone.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.PermissionsManager.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.Ports.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Craxs_Rat.Resources.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Craxs_Rat.ScreenShoter.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Craxs_Rat.Settings.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\CraxsRat.tipfirewalltracker.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\CraxsRat.Updater.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.AccountManager.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.AddNumber.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.alertform.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.Apkinstaller.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.AppsProperties.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.CallPhone.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.CallsManager.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.Calls_Records.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.CameraManager.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.ClipboardManager.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.comptableform.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.ContactsManager.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.Dialog1.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.Dialog2.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.DialogPloice.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.Drooper.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.CraxsMsgbox.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.FileManager.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.Keylogger.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.LanguageSelector.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.LocationManager.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.ScreenReader.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.SelfRemove.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.smsMaker.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.SMSManager.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\CraxsRat.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\CraxsRat.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\CraxsRat.csproj.Up2Date
+C:\Users\USER\Desktop\SOURCE CODES\CraxsRat Src\obj\Debug\CraxsSettinngs.resources
+C:\Users\tarek\Desktop\CraxsRat Src\bin\Debug\CraxsRat v7.4.exe
+C:\Users\tarek\Desktop\CraxsRat Src\bin\Debug\CraxsRat v7.4.pdb
+C:\Users\tarek\Desktop\CraxsRat Src\bin\Debug\DrakeUI.Framework.dll
+C:\Users\tarek\Desktop\CraxsRat Src\bin\Debug\Guna.UI2.dll
+C:\Users\tarek\Desktop\CraxsRat Src\bin\Debug\LiveCharts.dll
+C:\Users\tarek\Desktop\CraxsRat Src\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\tarek\Desktop\CraxsRat Src\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\tarek\Desktop\CraxsRat Src\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\tarek\Desktop\CraxsRat Src\bin\Debug\NAudio.Core.dll
+C:\Users\tarek\Desktop\CraxsRat Src\bin\Debug\NAudio.WinMM.dll
+C:\Users\tarek\Desktop\CraxsRat Src\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tarek\Desktop\CraxsRat Src\bin\Debug\SipaaFramework.dll
+C:\Users\tarek\Desktop\CraxsRat Src\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\tarek\Desktop\CraxsRat Src\bin\Debug\System.Security.AccessControl.dll
+C:\Users\tarek\Desktop\CraxsRat Src\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\tarek\Desktop\CraxsRat Src\bin\Debug\WinMM.Net.dll
+C:\Users\tarek\Desktop\CraxsRat Src\bin\Debug\LiveCharts.pdb
+C:\Users\tarek\Desktop\CraxsRat Src\bin\Debug\LiveCharts.xml
+C:\Users\tarek\Desktop\CraxsRat Src\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\tarek\Desktop\CraxsRat Src\bin\Debug\NAudio.Core.xml
+C:\Users\tarek\Desktop\CraxsRat Src\bin\Debug\NAudio.WinMM.xml
+C:\Users\tarek\Desktop\CraxsRat Src\bin\Debug\System.Security.AccessControl.xml
+C:\Users\tarek\Desktop\CraxsRat Src\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\CraxsRat.csproj.AssemblyReference.cache
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\CraxsRat v7.4.g.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Build.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\CraxsSettinngs.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Faker.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Jector.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Applications.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Craxs_Rat.Build.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\CraxsRat.Eaglepopup.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Craxs_Rat.Craxs_RatMain.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Craxs_Rat.Microphone.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.PermissionsManager.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Ports.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Craxs_Rat.Resources.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Craxs_Rat.ScreenShoter.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Craxs_Rat.Settings.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\CraxsRat.tipfirewalltracker.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\CraxsRat.Updater.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.AccountManager.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.AddNumber.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.alertform.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Apkinstaller.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.AppsProperties.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.CallPhone.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.CallsManager.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Calls_Records.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.CameraManager.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.ClipboardManager.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.comptableform.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.ContactsManager.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Dialog1.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Dialog2.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.DialogPloice.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Drooper.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.CraxsMsgbox.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.FileManager.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.Keylogger.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.LanguageSelector.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.LocationManager.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.ScreenReader.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.SelfRemove.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.smsMaker.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.SMSManager.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\CraxsRat.csproj.GenerateResource.cache
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\CraxsRat.csproj.CoreCompileInputs.cache
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\CraxsRat.csproj.Up2Date
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\CraxsRat v7.4.exe
+C:\Users\tarek\Desktop\CraxsRat Src\obj\Debug\CraxsRat v7.4.pdb
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\bin\Debug\CraxsRat v7.4.exe
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\bin\Debug\CraxsRat v7.4.pdb
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\bin\Debug\DrakeUI.Framework.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\bin\Debug\Guna.UI2.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\bin\Debug\LiveCharts.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\bin\Debug\NAudio.Core.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\bin\Debug\NAudio.WinMM.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\bin\Debug\SipaaFramework.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\bin\Debug\WinMM.Net.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\bin\Debug\LiveCharts.pdb
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\bin\Debug\LiveCharts.xml
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\bin\Debug\NAudio.Core.xml
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\bin\Debug\NAudio.WinMM.xml
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\CraxsRat.csproj.AssemblyReference.cache
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\CraxsRat v7.4.g.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Build.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\CraxsSettinngs.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Faker.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Jector.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.Applications.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Craxs_Rat.Build.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\CraxsRat.Eaglepopup.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Craxs_Rat.Craxs_RatMain.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Craxs_Rat.Microphone.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.PermissionsManager.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.Ports.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Craxs_Rat.Resources.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Craxs_Rat.ScreenShoter.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Craxs_Rat.Settings.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\CraxsRat.tipfirewalltracker.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\CraxsRat.Updater.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.AccountManager.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.AddNumber.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.alertform.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.Apkinstaller.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.AppsProperties.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.CallPhone.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.CallsManager.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.Calls_Records.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.CameraManager.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.ClipboardManager.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.comptableform.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.ContactsManager.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.Dialog1.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.Dialog2.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.DialogPloice.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.Drooper.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.CraxsMsgbox.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.FileManager.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.Keylogger.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.LanguageSelector.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.LocationManager.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.ScreenReader.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.SelfRemove.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.smsMaker.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.SMSManager.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\CraxsRat.csproj.GenerateResource.cache
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\CraxsRat.csproj.CoreCompileInputs.cache
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\CraxsRat.csproj.Up2Date
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\CraxsRat v7.4.exe
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4 SRC By HackersBit\CraxsRat 7.4 SRC By HackersBit\obj\Debug\CraxsRat v7.4.pdb
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\bin\Debug\CraxsRat v7.4.exe
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\bin\Debug\CraxsRat v7.4.pdb
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\bin\Debug\DrakeUI.Framework.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\bin\Debug\Guna.UI2.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\bin\Debug\LiveCharts.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\bin\Debug\NAudio.Core.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\bin\Debug\NAudio.WinMM.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\bin\Debug\SipaaFramework.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\bin\Debug\WinMM.Net.dll
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\bin\Debug\LiveCharts.pdb
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\bin\Debug\LiveCharts.xml
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\bin\Debug\NAudio.Core.xml
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\bin\Debug\NAudio.WinMM.xml
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\CraxsRat.csproj.AssemblyReference.cache
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\CraxsRat v7.4.g.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Build.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\CraxsSettinngs.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Faker.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Jector.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.Applications.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Craxs_Rat.Build.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\CraxsRat.Eaglepopup.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Craxs_Rat.Craxs_RatMain.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Craxs_Rat.Microphone.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.PermissionsManager.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.Ports.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Craxs_Rat.Resources.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Craxs_Rat.ScreenShoter.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Craxs_Rat.Settings.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\CraxsRat.tipfirewalltracker.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\CraxsRat.Updater.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.AccountManager.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.AddNumber.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.alertform.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.Apkinstaller.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.AppsProperties.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.CallPhone.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.CallsManager.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.Calls_Records.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.CameraManager.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.ClipboardManager.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.comptableform.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.ContactsManager.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.Dialog1.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.Dialog2.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.DialogPloice.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.Drooper.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.CraxsMsgbox.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.FileManager.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.Keylogger.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.LanguageSelector.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.LocationManager.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.ScreenReader.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.SelfRemove.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.smsMaker.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.SMSManager.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\CraxsRat.csproj.GenerateResource.cache
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\CraxsRat.csproj.CoreCompileInputs.cache
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\CraxsRat.csproj.Up2Date
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\CraxsRat v7.4.exe
+C:\Users\Aashish\Desktop\CraxsRat 7.6 Src\CraxsRat 7.6 Src\CraxsRat 7.4\CraxsRat 7.4 SRC By HackersBit\obj\Debug\CraxsRat v7.4.pdb
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\CraxsRat v7.5.exe
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\CraxsRat v7.5.pdb
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\DrakeUI.Framework.dll
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\Guna.UI2.dll
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\LiveCharts.dll
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\LiveCharts.WinForms.dll
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\LiveCharts.Wpf.dll
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\Microsoft.Win32.Registry.dll
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\NAudio.Core.dll
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\NAudio.WinMM.dll
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\SipaaFramework.dll
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\Siticone.Desktop.UI.dll
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\System.Security.AccessControl.dll
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\System.Security.Principal.Windows.dll
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\WinMM.Net.dll
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\LiveCharts.pdb
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\LiveCharts.xml
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\Microsoft.Win32.Registry.xml
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\NAudio.Core.xml
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\NAudio.WinMM.xml
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\System.Security.AccessControl.xml
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\System.Security.Principal.Windows.xml
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\CraxsRat.csproj.AssemblyReference.cache
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\CraxsRat v7.5.g.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Build.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\CraxsSettinngs.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Faker.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Jector.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.Applications.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Craxs_Rat.Build.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\CraxsRat.Eaglepopup.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Craxs_Rat.Craxs_RatMain.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Craxs_Rat.Microphone.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.PermissionsManager.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.Ports.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Craxs_Rat.Resources.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Craxs_Rat.ScreenShoter.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Craxs_Rat.Settings.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\CraxsRat.tipfirewalltracker.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\CraxsRat.Updater.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.AccountManager.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.AddNumber.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.alertform.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.Apkinstaller.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.AppsProperties.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.CallPhone.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.CallsManager.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.Calls_Records.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.CameraManager.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.ClipboardManager.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.comptableform.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.ContactsManager.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.Dialog1.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.Dialog2.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.DialogPloice.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.Drooper.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.CraxsMsgbox.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.FileManager.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.Keylogger.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.LanguageSelector.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.LocationManager.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.ScreenReader.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.SelfRemove.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.smsMaker.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.SMSManager.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\CraxsRat.csproj.GenerateResource.cache
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\CraxsRat.csproj.CoreCompileInputs.cache
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\CraxsRat.csproj.Up2Date
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\CraxsRat v7.5.exe
+D:\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\CraxsRat v7.5.pdb
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\DrakeUI.Framework.dll
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\Guna.UI2.dll
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\LiveCharts.dll
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\LiveCharts.WinForms.dll
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\LiveCharts.Wpf.dll
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\NAudio.Core.dll
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\NAudio.WinMM.dll
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\SipaaFramework.dll
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\Siticone.Desktop.UI.dll
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\System.Security.AccessControl.dll
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\System.Security.Principal.Windows.dll
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\WinMM.Net.dll
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\LiveCharts.pdb
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\LiveCharts.xml
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\NAudio.Core.xml
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\NAudio.WinMM.xml
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\System.Security.AccessControl.xml
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\System.Security.Principal.Windows.xml
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\CraxsRat.csproj.AssemblyReference.cache
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Build.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\CraxsSettinngs.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Faker.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Jector.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.Applications.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Craxs_Rat.Build.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\CraxsRat.Eaglepopup.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Craxs_Rat.Craxs_RatMain.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Craxs_Rat.Microphone.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.PermissionsManager.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.Ports.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Craxs_Rat.Resources.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Craxs_Rat.ScreenShoter.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Craxs_Rat.Settings.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\CraxsRat.tipfirewalltracker.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\CraxsRat.Updater.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.AccountManager.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.AddNumber.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.Apkinstaller.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.AppsProperties.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.CallPhone.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.CallsManager.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.Calls_Records.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.CameraManager.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.ClipboardManager.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.comptableform.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.ContactsManager.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.Dialog1.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.Dialog2.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.DialogPloice.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.Drooper.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.CraxsMsgbox.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.FileManager.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.Keylogger.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.LanguageSelector.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.LocationManager.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.ScreenReader.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.SelfRemove.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.smsMaker.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.SMSManager.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\CraxsRat.csproj.GenerateResource.cache
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\CraxsRat.csproj.CoreCompileInputs.cache
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\CraxsRat.csproj.Up2Date
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\Apk_studio.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\CraxsRat.Form1.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\CraxsRat v7.4.exe
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\bin\Debug\CraxsRat v7.4.pdb
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\CraxsRat v7.4.g.resources
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\CraxsRat v7.4.exe
+D:\Tor Browser\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\CraxsRat Full Source By Evlf Dev\obj\Debug\CraxsRat v7.4.pdb
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.csproj.AssemblyReference.cache
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Apk_studio.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Build.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsSettinngs.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Faker.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.Form1.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Jector.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Applications.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Craxs_Rat.Build.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.Eaglepopup.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Craxs_Rat.Craxs_RatMain.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Craxs_Rat.Microphone.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.PermissionsManager.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Ports.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Craxs_Rat.Resources.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Craxs_Rat.ScreenShoter.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Craxs_Rat.Settings.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.tipfirewalltracker.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.Updater.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.AccountManager.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.AddNumber.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Apkinstaller.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.AppsProperties.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.CallPhone.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.CallsManager.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Calls_Records.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.CameraManager.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.ClipboardManager.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.comptableform.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.ContactsManager.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Dialog1.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Dialog2.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.DialogPloice.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Drooper.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.CraxsMsgbox.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.FileManager.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Keylogger.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.LanguageSelector.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.LocationManager.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.ScreenReader.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.SelfRemove.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.smsMaker.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.SMSManager.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.csproj.GenerateResource.cache
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.csproj.CoreCompileInputs.cache
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\DrakeUI.Framework.dll
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\Guna.UI2.dll
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\LiveCharts.dll
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\NAudio.Core.dll
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\NAudio.WinMM.dll
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\SipaaFramework.dll
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\WinMM.Net.dll
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\LiveCharts.pdb
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\LiveCharts.xml
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\NAudio.Core.xml
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\NAudio.WinMM.xml
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.csproj.Up2Date
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Download.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.EditConnections.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Editor.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.information.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\KeyboardManager.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.Form2.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\GTX 700 Rat.g.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\GTX 700 Rat.exe
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\GTX 700 Rat.pdb
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\GTX 700 Rat.exe
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\GTX 700 Rat.pdb
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.inp.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.EditSocket.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.nonetform.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Report.resources
+C:\Users\Aashish\Desktop\CraxsRat V7.6\CraxsRat Old Version And Source\new\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.ScreenLoger.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\GTX 700 Rat.exe
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\GTX 700 Rat.pdb
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\DrakeUI.Framework.dll
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\Guna.UI2.dll
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\LiveCharts.dll
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\NAudio.Core.dll
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\NAudio.WinMM.dll
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\SipaaFramework.dll
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\WinMM.Net.dll
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\LiveCharts.pdb
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\LiveCharts.xml
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\NAudio.Core.xml
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\NAudio.WinMM.xml
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.csproj.AssemblyReference.cache
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\GTX 700 Rat.g.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Apk_studio.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Build.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsSettinngs.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Download.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.EditConnections.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Editor.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.EditSocket.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Faker.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.Form1.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.Form2.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.information.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.inp.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Jector.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\KeyboardManager.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.nonetform.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Report.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.ScreenLoger.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Applications.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Craxs_Rat.Build.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.Eaglepopup.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Craxs_Rat.Craxs_RatMain.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Craxs_Rat.Microphone.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.PermissionsManager.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Ports.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Craxs_Rat.Resources.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Craxs_Rat.ScreenShoter.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Craxs_Rat.Settings.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.tipfirewalltracker.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.Updater.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.AccountManager.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.AddNumber.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Apkinstaller.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.AppsProperties.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.CallPhone.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.CallsManager.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Calls_Records.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.CameraManager.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.ClipboardManager.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.comptableform.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.ContactsManager.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Dialog1.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Dialog2.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.DialogPloice.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Drooper.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.CraxsMsgbox.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.FileManager.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Keylogger.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.LanguageSelector.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.LocationManager.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.ScreenReader.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.SelfRemove.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.smsMaker.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.SMSManager.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.csproj.GenerateResource.cache
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.csproj.CoreCompileInputs.cache
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.csproj.Up2Date
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\GTX 700 Rat.exe
+C:\Users\nobodyisperfect\Desktop\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\GTX 700 Rat.pdb
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\GTX 700 Rat.exe
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\GTX 700 Rat.pdb
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\DrakeUI.Framework.dll
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\Guna.UI2.dll
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\LiveCharts.dll
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\NAudio.Core.dll
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\NAudio.WinMM.dll
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\SipaaFramework.dll
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\WinMM.Net.dll
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\LiveCharts.pdb
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\LiveCharts.xml
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\NAudio.Core.xml
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\NAudio.WinMM.xml
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.csproj.AssemblyReference.cache
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\GTX 700 Rat.g.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Apk_studio.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Build.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsSettinngs.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Download.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.EditConnections.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Editor.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.EditSocket.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Faker.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.Form1.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.Form2.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.information.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.inp.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Jector.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\KeyboardManager.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.nonetform.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Report.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.ScreenLoger.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Applications.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Craxs_Rat.Build.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.Eaglepopup.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Craxs_Rat.Craxs_RatMain.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Craxs_Rat.Microphone.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.PermissionsManager.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Ports.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Craxs_Rat.Resources.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Craxs_Rat.ScreenShoter.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Craxs_Rat.Settings.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.tipfirewalltracker.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.Updater.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.AccountManager.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.AddNumber.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Apkinstaller.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.AppsProperties.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.CallPhone.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.CallsManager.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Calls_Records.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.CameraManager.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.ClipboardManager.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.comptableform.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.ContactsManager.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Dialog1.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Dialog2.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.DialogPloice.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Drooper.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.CraxsMsgbox.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.FileManager.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.Keylogger.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.LanguageSelector.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.LocationManager.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.ScreenReader.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.SelfRemove.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.smsMaker.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.SMSManager.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.csproj.GenerateResource.cache
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.csproj.CoreCompileInputs.cache
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\CraxsRat.csproj.Up2Date
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\GTX 700 Rat.exe
+C:\Users\Nobodyisperfect1\Desktop\GTX-700\GTX-700\CraxsRat [ Leaked Fix Source Code ] By T1\obj\Debug\GTX 700 Rat.pdb
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\CraxsRat.csproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\GTX 700 Rat.g.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Apk_studio.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Build.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\CraxsSettinngs.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.Download.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.EditConnections.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.Editor.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.EditSocket.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Faker.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\CraxsRat.Form1.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\CraxsRat.Form2.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.information.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.inp.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Jector.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\KeyboardManager.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.nonetform.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.Report.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.ScreenLoger.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Craxs_Rat.Build.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\CraxsRat.Eaglepopup.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Craxs_Rat.Craxs_RatMain.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Craxs_Rat.Microphone.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.PermissionsManager.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.Ports.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Craxs_Rat.Resources.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Craxs_Rat.ScreenShoter.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Craxs_Rat.Settings.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\CraxsRat.tipfirewalltracker.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\CraxsRat.Updater.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.AccountManager.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.AddNumber.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.Apkinstaller.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.AppsProperties.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.CallPhone.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.CallsManager.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.Calls_Records.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.CameraManager.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.ClipboardManager.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.comptableform.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.ContactsManager.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.Dialog1.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.Dialog2.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.DialogPloice.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.Drooper.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.CraxsMsgbox.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.FileManager.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.Keylogger.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.LanguageSelector.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.LocationManager.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.ScreenReader.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.ScreenReaderV2.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.SelfRemove.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.smsMaker.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.SMSManager.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.WebViewMonitor.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\CraxsRat.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\GTX 700 Rat.exe
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\GTX 700 Rat.pdb
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\bin\Debug\GTX 700 Rat.exe
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\bin\Debug\GTX 700 Rat.pdb
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\bin\Debug\DrakeUI.Framework.dll
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\bin\Debug\LiveCharts.dll
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\bin\Debug\NAudio.Core.dll
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\bin\Debug\NAudio.WinMM.dll
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\bin\Debug\SipaaFramework.dll
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\bin\Debug\LiveCharts.pdb
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\bin\Debug\LiveCharts.xml
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\bin\Debug\NAudio.Core.xml
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\bin\Debug\NAudio.WinMM.xml
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\Eagle_Spy.Applications.resources
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\CraxsRat.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\Telegram Desktop\Cellik Rat V5.0.1\Cellik Rat V5.0.1\obj\Debug\CraxsRat.csproj.Up2Date
