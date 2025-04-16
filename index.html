@@ -3,1669 +3,1811 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Dvecontent </title>
+    <meta name="description" content="موقع Dvecontent - أكبر مجموعة أدوات وتطبيقات للأمن السيبراني واختبار الاختراق">
+    <meta name="keywords" content="أدوات أمنية, اختبار اختراق, أمن معلومات, هاكر أخلاقي, أدوات قرصنة">
+    <meta name="author" content="Dvecontent Team">
+    
+    <title>Dvecontent - الأدوات الأمنية الشاملة</title>
+    
+    <!-- Favicon -->
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700&display=swap" rel="stylesheet">
+    
     <style>
-        /* أنماط عامة */
+        :root {
+            --primary-color: #2c3e50;
+            --secondary-color: #34495e;
+            --accent-color: #3498db;
+            --light-color: #ecf0f1;
+            --dark-color: #1a252f;
+            --success-color: #27ae60;
+            --warning-color: #f39c12;
+            --danger-color: #e74c3c;
+            --text-color: #333;
+            --text-light: #7f8c8d;
+            --border-radius: 8px;
+            --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            --transition: all 0.3s ease;
+        }
+        
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-            font-family: 'Arial', sans-serif;
         }
+        
         body {
+            font-family: 'Tajawal', sans-serif;
             background-color: #f5f9ff;
+            color: var(--text-color);
+            line-height: 1.6;
             direction: rtl;
         }
+        
         a {
             text-decoration: none;
+            color: inherit;
+            transition: var(--transition);
         }
         
-        /* أنماط القوائم */
-        header {
-            background-color: #2c3e50;
-            color: white;
-            padding: 1rem;
-            text-align: center;
-            position: relative;
-        }
-        .header-ad {
-            background-color: #f1c40f;
-            color: #333;
-            padding: 0.5rem;
-            text-align: center;
-            font-size: 0.9rem;
-            border-bottom: 1px solid #ddd;
-        }
-        nav {
-            background-color: #34495e;
-            padding: 0.5rem;
-            display: flex;
-            justify-content: center;
-            gap: 1rem;
-            flex-wrap: wrap;
-        }
-        nav a {
-            color: white;
-            padding: 0.5rem 1rem;
-            border-radius: 4px;
-            transition: background-color 0.3s;
-        }
-        nav a:hover {
-            background-color: #2c3e50;
-        }
-        
-        /* أنماط الصفحة الرئيسية */
-        .dashboard {
-            max-width: 1200px;
-            margin: 2rem auto;
-            padding: 0 1rem;
-        }
-        .welcome-msg {
-            text-align: center;
-            margin-bottom: 2rem;
-            color: #333;
-        }
-        .sections-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 1.5rem;
-        }
-        .section-card {
-            background-color: white;
-            border-radius: 8px;
-            padding: 1.5rem;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-            transition: transform 0.3s, box-shadow 0.3s;
-            text-align: center;
-        }
-        .section-card:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 5px 15px rgba(0,0,0,0.2);
-        }
-        .section-card i {
-            font-size: 3rem;
-            color: #2c3e50;
-            margin-bottom: 1rem;
-        }
-        .section-card h2 {
-            color: #2c3e50;
-            margin-bottom: 0.5rem;
-        }
-        .section-card p {
-            color: #555;
-            margin-bottom: 1rem;
-        }
-        .section-card a {
-            display: inline-block;
-            background-color: #2c3e50;
-            color: white;
-            padding: 0.5rem 1rem;
-            border-radius: 4px;
-            transition: background-color 0.3s;
-        }
-        .section-card a:hover {
-            background-color: #1a252f;
-        }
-        
-        /* أنماط صفحات المحتوى */
-        .content-page {
-            max-width: 1200px;
-            margin: 2rem auto;
-            padding: 0 1rem;
-        }
-        .page-title {
-            text-align: center;
-            margin-bottom: 2rem;
-            color: #2c3e50;
-        }
-        .content-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 1.5rem;
-        }
-        .content-item {
-            background-color: white;
-            border-radius: 8px;
-            padding: 1.5rem;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-            position: relative;
-        }
-        .content-item .type {
-            display: inline-block;
-            background-color: #e74c3c;
-            color: white;
-            padding: 0.2rem 0.5rem;
-            border-radius: 4px;
-            font-size: 0.8rem;
-            margin-bottom: 1rem;
-        }
-        .content-item h2 {
-            color: #2c3e50;
-            margin-bottom: 0.5rem;
-        }
-        .content-item small {
-            color: #7f8c8d;
-            display: block;
-            margin-bottom: 1rem;
-        }
-        .content-item p {
-            color: #555;
-            margin-bottom: 1rem;
-            line-height: 1.6;
-        }
-        .content-item img {
+        img {
             max-width: 100%;
             height: auto;
-            border-radius: 4px;
-            margin-bottom: 1rem;
-        }
-        .content-item .file-download {
             display: block;
-            margin-bottom: 1rem;
-            color: #3498db;
-        }
-        .content-item .actions {
-            display: flex;
-            gap: 0.5rem;
-        }
-        .content-item .actions a {
-            display: inline-block;
-            padding: 0.5rem 1rem;
-            border-radius: 4px;
-            transition: background-color 0.3s;
-        }
-        .content-item .actions .view {
-            background-color: #2c3e50;
-            color: white;
-        }
-        .content-item .actions .view:hover {
-            background-color: #1a252f;
         }
         
-        /* أنماط التطبيقات المخصصة */
-        .app-card {
-            background: #fff;
-            border-radius: 10px;
-            padding: 1.5rem;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        .container {
+            width: 100%;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 15px;
+        }
+        
+        /* Header Styles */
+        .header-ad {
+            background-color: var(--warning-color);
+            color: var(--dark-color);
+            padding: 10px;
             text-align: center;
+            font-size: 0.9rem;
+            border-bottom: 1px solid rgba(0, 0, 0, 0.1);
         }
-        .app-icon {
-            width: 80px;
-            height: 80px;
-            border-radius: 15px;
-            margin-bottom: 1rem;
-            object-fit: contain;
+        
+        header {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+            position: relative;
+            box-shadow: var(--box-shadow);
         }
-        .app-title {
-            color: #2c3e50;
-            margin-bottom: 0.5rem;
+        
+        header h1 {
+            font-size: 2rem;
+            margin-bottom: 10px;
         }
-        .app-description {
-            color: #555;
-            margin-bottom: 1rem;
-            line-height: 1.6;
-        }
-        .app-meta {
+        
+        /* Navigation */
+        nav {
+            background-color: var(--secondary-color);
+            padding: 10px 0;
             display: flex;
             justify-content: center;
-            gap: 1rem;
-            margin-bottom: 1rem;
-            font-size: 0.9rem;
-            color: #7f8c8d;
-        }
-        .download-btn {
-            display: inline-block;
-            background: #4CAF50;
-            color: white;
-            padding: 0.5rem 1rem;
-            border-radius: 5px;
-            text-decoration: none;
-            transition: background-color 0.3s;
-        }
-        .download-btn:hover {
-            background: #45a049;
+            flex-wrap: wrap;
+            gap: 15px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
         }
         
-        /* أنماط الأدوات */
-        .tool-card {
-            background-color: #fff;
-            border-radius: 10px;
-            padding: 1.5rem;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-            text-align: center;
-        }
-        .tool-icon {
-            width: 80px;
-            height: 80px;
-            object-fit: contain;
-            margin-bottom: 1rem;
-        }
-        .tool-btn {
-            background-color: #28a745;
+        nav a {
             color: white;
-            border: none;
-            padding: 0.5rem 1rem;
-            border-radius: 8px;
-            cursor: pointer;
-            transition: background-color 0.3s;
-        }
-        .tool-btn:hover {
-            background-color: #218838;
+            padding: 8px 16px;
+            border-radius: var(--border-radius);
+            display: flex;
+            align-items: center;
+            gap: 8px;
         }
         
-        /* أنماط المنشورات */
-        .post-card {
-            background-color: #fff;
-            border-radius: 10px;
-            padding: 1.5rem;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        nav a:hover {
+            background-color: var(--primary-color);
+            transform: translateY(-2px);
+        }
+        
+        nav a i {
+            font-size: 1.1rem;
+        }
+        
+        /* Main Content */
+        .section {
+            padding: 30px 0;
+        }
+        
+        .page-title {
+            text-align: center;
+            margin-bottom: 30px;
+            color: var(--primary-color);
+            position: relative;
+            padding-bottom: 15px;
+        }
+        
+        .page-title::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            right: 50%;
+            transform: translateX(50%);
+            width: 100px;
+            height: 3px;
+            background-color: var(--accent-color);
+        }
+        
+        .page-title i {
+            margin-left: 10px;
+        }
+        
+        /* Grid System */
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+            margin: 20px 0;
+        }
+        
+        /* Card Styles */
+        .card {
+            background-color: white;
+            border-radius: var(--border-radius);
+            padding: 20px;
+            box-shadow: var(--box-shadow);
+            transition: var(--transition);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+        }
+        
+        .card-icon {
+            font-size: 2.5rem;
+            color: var(--primary-color);
+            margin-bottom: 15px;
             text-align: center;
         }
-        .post-image {
+        
+        .card-img {
             width: 100%;
-            height: 200px;
+            height: 180px;
             object-fit: cover;
-            border-radius: 8px;
-            margin-bottom: 1rem;
+            border-radius: var(--border-radius);
+            margin-bottom: 15px;
         }
         
-        /* أنماط الوسائط */
-        .media-card {
-            background-color: #fff;
-            border-radius: 10px;
-            padding: 1.5rem;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        .card-title {
+            color: var(--primary-color);
+            margin-bottom: 10px;
+            font-size: 1.3rem;
+        }
+        
+        .card-description {
+            color: var(--text-light);
+            margin-bottom: 15px;
+            font-size: 0.95rem;
+        }
+        
+        .card-meta {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.85rem;
+            color: var(--text-light);
+            margin-bottom: 15px;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+        
+        .card-badge {
+            position: absolute;
+            top: 15px;
+            left: 15px;
+            background-color: var(--danger-color);
+            color: white;
+            padding: 3px 8px;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            font-weight: bold;
+        }
+        
+        /* Button Styles */
+        .btn {
+            display: inline-block;
+            padding: 8px 16px;
+            border-radius: var(--border-radius);
+            font-weight: 500;
             text-align: center;
+            cursor: pointer;
+            transition: var(--transition);
+            border: none;
         }
-        .media-content {
+        
+        .btn-primary {
+            background-color: var(--primary-color);
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            background-color: var(--dark-color);
+        }
+        
+        .btn-success {
+            background-color: var(--success-color);
+            color: white;
+        }
+        
+        .btn-success:hover {
+            background-color: #219653;
+        }
+        
+        .btn-danger {
+            background-color: var(--danger-color);
+            color: white;
+        }
+        
+        .btn-danger:hover {
+            background-color: #c0392b;
+        }
+        
+        .btn-group {
+            display: flex;
+            gap: 10px;
+            margin-top: 15px;
+            flex-wrap: wrap;
+        }
+        
+        /* Search and Filter */
+        .search-filter {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+        }
+        
+        .search-box {
+            flex: 1;
+            min-width: 250px;
+            position: relative;
+        }
+        
+        .search-box input {
             width: 100%;
-            margin-bottom: 1rem;
+            padding: 10px 15px;
+            border: 1px solid #ddd;
+            border-radius: var(--border-radius);
+            font-family: inherit;
         }
-        .media-content img {
-            max-width: 100%;
-            border-radius: 8px;
+        
+        .search-box i {
+            position: absolute;
+            left: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-light);
         }
-        .media-content video {
+        
+        .filter-select {
+            min-width: 200px;
+        }
+        
+        .filter-select select {
             width: 100%;
-            border-radius: 8px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: var(--border-radius);
+            font-family: inherit;
+            background-color: white;
         }
-        .media-content audio {
+        
+        /* Media Elements */
+        .media-container {
+            width: 100%;
+            margin-bottom: 15px;
+            border-radius: var(--border-radius);
+            overflow: hidden;
+        }
+        
+        .media-container img {
+            width: 100%;
+            height: auto;
+        }
+        
+        .media-container video,
+        .media-container iframe {
+            width: 100%;
+            height: 300px;
+            border: none;
+        }
+        
+        .media-container audio {
             width: 100%;
         }
         
-        /* أنماط الإعلانات */
+        /* Ad Containers */
         .ad-container {
             background-color: #f8f9fa;
-            border: 1px dashed #3498db;
-            border-radius: 8px;
-            padding: 1rem;
-            margin: 1.5rem 0;
+            border: 1px dashed var(--accent-color);
+            border-radius: var(--border-radius);
+            padding: 20px;
+            margin: 20px 0;
             text-align: center;
-            min-height: 100px;
             display: flex;
             align-items: center;
             justify-content: center;
             flex-direction: column;
+            min-height: 100px;
         }
-        .ad-container.horizontal {
+        
+        .ad-label {
+            font-size: 0.8rem;
+            color: var(--text-light);
+            margin-bottom: 5px;
+            font-weight: bold;
+        }
+        
+        .ad-horizontal {
             grid-column: 1 / -1;
             height: 100px;
         }
-        .ad-container.vertical {
+        
+        .ad-vertical {
             min-height: 250px;
         }
-        .ad-label {
-            font-size: 0.8rem;
-            color: #7f8c8d;
-            margin-bottom: 0.5rem;
-        }
         
-        /* تذييل الصفحة */
+        /* Footer */
         footer {
-            background-color: #2c3e50;
+            background-color: var(--primary-color);
             color: white;
-            text-align: center;
-            padding: 1rem;
-            margin-top: 2rem;
+            padding: 30px 0;
+            margin-top: 40px;
         }
-        .footer-ads {
+        
+        .footer-content {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 1rem;
-            margin-bottom: 1rem;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 20px;
         }
         
-        /* رموز الخطوط */
-        @font-face {
-            font-family: 'FontAwesome';
-            src: url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2') format('woff2');
-        }
-        .fa {
-            font-family: 'FontAwesome';
-            font-style: normal;
+        .footer-copyright {
+            text-align: center;
+            padding-top: 20px;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            font-size: 0.9rem;
         }
         
-        /* التجاوب مع الأجهزة المختلفة */
+        /* Utility Classes */
+        .text-center {
+            text-align: center;
+        }
+        
+        .mb-0 {
+            margin-bottom: 0;
+        }
+        
+        .mt-0 {
+            margin-top: 0;
+        }
+        
+        .hidden {
+            display: none !important;
+        }
+        
+        /* Responsive Design */
         @media (max-width: 768px) {
             nav {
                 flex-direction: column;
                 align-items: center;
+                padding: 10px;
             }
-            .content-grid {
+            
+            nav a {
+                width: 100%;
+                justify-content: center;
+            }
+            
+            .grid {
                 grid-template-columns: 1fr;
             }
-            .ad-container.horizontal {
+            
+            .ad-horizontal {
                 height: auto;
             }
+            
+            .page-title {
+                font-size: 1.5rem;
+            }
+            
+            .search-filter {
+                flex-direction: column;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            .btn-group {
+                flex-direction: column;
+            }
+            
+            .btn {
+                width: 100%;
+            }
+        }
+        
+        /* Animations */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        .fade-in {
+            animation: fadeIn 0.5s ease forwards;
+        }
+        
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+        
+        ::-webkit-scrollbar-track {
+            background: #f1f1f1;
+        }
+        
+        ::-webkit-scrollbar-thumb {
+            background: var(--primary-color);
+            border-radius: 4px;
+        }
+        
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--dark-color);
+        }
+        
+        /* Loading Spinner */
+        .spinner {
+            display: inline-block;
+            width: 40px;
+            height: 40px;
+            border: 4px solid rgba(0, 0, 0, 0.1);
+            border-radius: 50%;
+            border-top-color: var(--primary-color);
+            animation: spin 1s ease-in-out infinite;
+        }
+        
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        
+        .loading-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 200px;
         }
     </style>
-    <!-- رابط لخط Font Awesome للرموز -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
-    <!-- إعلان الهيدر -->
+    <!-- Header Ad -->
     <div class="header-ad">
         <div class="ad-label">إعلان</div>
         <div>هذه مساحة إعلانية يمكنك استبدالها بكود الإعلان الخاص بك</div>
     </div>
 
-    <!-- الصفحة الرئيسية -->
+    <!-- Main App Structure -->
     <div id="mainApp">
+        <!-- Header -->
         <header>
-            <h1>Dvecontent</h1>
+            <div class="container">
+                <h1>Dvecontent</h1>
+                <p>أكبر مجموعة أدوات وتطبيقات للأمن السيبراني واختبار الاختراق</p>
+            </div>
         </header>
-        <nav>
-            <a href="#" onclick="showSection('dashboard')"><i class="fa fa-home"></i> الرئيسية</a>
-            <a href="#" onclick="showSection('apps')"><i class="fa fa-mobile"></i> التطبيقات</a>
-            <a href="#" onclick="showSection('tools')"><i class="fa fa-wrench"></i> الأدوات</a> 
-          <!--  <a href="#" onclick="showSection('Post')"><i class="fa fa-Post"></i> منشورات</a> --> 
-            <a href="#" onclick="showSection('media')"><i class="fa fa-photo"></i> الوسائط</a>
-        </nav>
-
-        <!-- لوحة التحكم -->
-        <div id="dashboard" class="dashboard">
-            <!-- إعلان أفقي -->
-            <div class="ad-container horizontal">
-                <div class="ad-label">إعلان</div>
-                <div>هذه مساحة إعلانية أفقية يمكن استبدالها بكود الإعلان</div>
-            </div>
-            
-            <div class="welcome-msg">
-                
-              <!--  <p>هذا الموقع لعرض المحتوى فقط، جميع التعديلات تتم من خلال الكود المصدري</p>  -->
-            </div>
-            
-            <div class="sections-grid">
-                <div class="section-card">
-                    <i class="fa fa-mobile"></i>
-                    <h2>التطبيقات</h2>
-                    <p>عرض التطبيقات المتاحة للتحميل</p>
-                    <a href="#" onclick="showSection('apps')">تصفح التطبيقات</a>
-                </div>
-                
-                <!-- إعلان داخل الشبكة -->
-                <div class="ad-container">
-                    <div class="ad-label">إعلان</div>
-                    <div>مساحة إعلانية داخلية</div>
-                </div>
-                
-                <div class="section-card">
-                    <i class="fa fa-wrench"></i>
-                    <h2>الأدوات</h2>
-                    <p>عرض الأدوات والروابط المفيدة</p>
-                    <a href="#" onclick="showSection('tools')">تصفح الأدوات</a>
-                </div>
-                
-              <!--  <div class="section-card">
-                    <i class="fa fa-newspaper-o"></i>
-                    <h2>المنشورات</h2>
-                   <p>عرض المقالات والمنشورات</p>
-                    <a href="#" onclick="showSection('posts')">تصفح المنشورات</a>
-                </div>  --> 
-                
-                <div class="section-card">
-                    <i class="fa fa-photo"></i>
-                    <h2>الوسائط</h2>
-                    <p>عرض الصور والفيديوهات والملفات الصوتية</p>
-                    <a href="#" onclick="showSection('media')">تصفح الوسائط</a>
-                </div>
-            </div>
-            
-            <!-- إعلان أفقي آخر -->
-            <div class="ad-container horizontal">
-                <div class="ad-label">إعلان</div>
-                <div>مساحة إعلانية أسفل المحتوى الرئيسي</div>
-            </div>
-        </div>
-
-        <!-- قسم التطبيقات -->
-        <div id="apps" class="content-page" style="display: none;">
-            <h1 class="page-title"><i class="fa fa-mobile"></i> التطبيقات</h1>
-            
-            <!-- إعلان رأسي -->
-            <div class="ad-container vertical">
-                <div class="ad-label">إعلان</div>
-                <div>مساحة إعلانية رأسية بجانب المحتوى</div>
-            </div>
-            
-            <div class="content-grid" id="appsGrid">
-                <!-- سيتم تعبئة التطبيقات هنا ديناميكياً -->
-            </div>
-        </div>
-
-
-        <!-- قسم الأدوات -->
-        <div id="tools" class="content-page" style="display: none;">
-            <h1 class="page-title"><i class="fa fa-wrench"></i> الأدوات</h1>
-            
-            <div class="content-grid" id="toolsGrid">
-                <!-- سيتم تعبئة الأدوات هنا ديناميكياً -->
-            </div>
-            
-            <!-- إعلان أسفل المحتوى -->
-            <div class="ad-container" style="margin-top: 30px; text-align: center;">
-                <div class="ad-label" style="font-weight: bold; margin-bottom: 5px;">إعلان</div>
-                <div>مساحة إعلانية أسفل قسم الأدوات</div>
-            </div>
-        </div>
-
-        <!-- قسم المنشورات -->
-       <div id="posts" class="content-page" style="display: none;">
-            <h1 class="page-title"><i class="fa fa-newspaper-o"></i> المنشورات</h1>
-            
-            <div class="content-grid" id="postsGrid">
-                <!-- سيتم تعبئة المنشورات هنا ديناميكياً -->
-            </div>
-        </div>   
-
-        <!-- قسم الوسائط -->
-        <div id="media" class="content-page" style="display: none;">
-            <h1 class="page-title"><i class="fa fa-photo"></i> الوسائط</h1>
-            
-            <div class="content-grid" id="mediaGrid">
-                <!-- سيتم تعبئة الوسائط هنا ديناميكياً -->
-            </div>
-        </div>
         
-        <footer>
-            <!-- إعلانات الفوتر -->
-            <div class="footer-ads">
-               <div class="ad-container">
+        <!-- Navigation -->
+        <nav>
+            <div class="container">
+                <a href="#" onclick="showSection('dashboard')"><i class="fas fa-home"></i> الرئيسية</a>
+                <a href="#" onclick="showSection('apps')"><i class="fas fa-mobile-alt"></i> التطبيقات</a>
+                <a href="#" onclick="showSection('tools')"><i class="fas fa-tools"></i> الأدوات</a>
+                <a href="#" onclick="showSection('media')"><i class="fas fa-photo-video"></i> الوسائط</a>
+            </div>
+        </nav>
+        
+        <!-- Main Content Sections -->
+        <main class="container">
+            <!-- Dashboard Section -->
+            <section id="dashboard" class="section">
+                <!-- Horizontal Ad -->
+                <div class="ad-container ad-horizontal">
                     <div class="ad-label">إعلان</div>
-                    <div>إعلان فوتر 1</div>
+                    <div>هذه مساحة إعلانية أفقية يمكن استبدالها بكود الإعلان</div>
                 </div>
+                
+                <div class="grid">
+                    <!-- App Card -->
+                    <div class="card fade-in">
+                        <div class="card-icon">
+                            <i class="fas fa-mobile-alt"></i>
+                        </div>
+                        <h3 class="card-title">التطبيقات</h3>
+                        <p class="card-description">عرض التطبيقات المتاحة للتحميل في مجال الأمن الرقمي والاختراق الأخلاقي</p>
+                        <a href="#" onclick="showSection('apps')" class="btn btn-primary">تصفح التطبيقات</a>
+                    </div>
+                    
+                    <!-- Ad Card -->
+                    <div class="ad-container">
+                        <div class="ad-label">إعلان</div>
+                        <div>مساحة إعلانية داخلية</div>
+                    </div>
+                    
+                    <!-- Tools Card -->
+                    <div class="card fade-in">
+                        <div class="card-icon">
+                            <i class="fas fa-tools"></i>
+                        </div>
+                        <h3 class="card-title">الأدوات</h3>
+                        <p class="card-description">أدوات وبرمجيات مفيدة في اختبار الاختراق والأمن السيبراني</p>
+                        <a href="#" onclick="showSection('tools')" class="btn btn-primary">تصفح الأدوات</a>
+                    </div>
+                    
+                    <!-- Media Card -->
+                    <div class="card fade-in">
+                        <div class="card-icon">
+                            <i class="fas fa-photo-video"></i>
+                        </div>
+                        <h3 class="card-title">الوسائط</h3>
+                        <p class="card-description">مكتبة الوسائط المتعددة من فيديوهات وصوتيات تعليمية</p>
+                        <a href="#" onclick="showSection('media')" class="btn btn-primary">تصفح الوسائط</a>
+                    </div>
+                </div>
+                
+                <!-- Bottom Ad -->
+                <div class="ad-container ad-horizontal">
+                    <div class="ad-label">إعلان</div>
+                    <div>مساحة إعلانية أسفل المحتوى الرئيسي</div>
+                </div>
+            </section>
+            
+            <!-- Apps Section -->
+            <section id="apps" class="section hidden">
+                <h2 class="page-title"><i class="fas fa-mobile-alt"></i> التطبيقات</h2>
+                
+                <!-- Vertical Ad -->
+                <div class="ad-container ad-vertical">
+                    <div class="ad-label">إعلان</div>
+                    <div>مساحة إعلانية رأسية بجانب المحتوى</div>
+                </div>
+                
+                <div class="grid" id="appsGrid">
+                    <!-- Apps will be loaded dynamically here -->
+                </div>
+            </section>
+            
+            <!-- Tools Section -->
+            <section id="tools" class="section hidden">
+                <h2 class="page-title"><i class="fas fa-tools"></i> الأدوات</h2>
+                
+                <div class="search-filter">
+                    <div class="search-box">
+                        <i class="fas fa-search"></i>
+                        <input type="text" id="toolsSearch" placeholder="ابحث عن أداة..." oninput="filterTools()">
+                    </div>
+                    <div class="filter-select">
+                        <select id="toolsFilter" onchange="filterTools()">
+                            <option value="all">جميع الفئات</option>
+                            <option value="Network Analysis">تحليل الشبكات</option>
+                            <option value="Network Hacking">اختراق الشبكات</option>
+                            <option value="Wireless Hacking">اختراق اللاسلكي</option>
+                            <option value="Web Exploitation">استغلال الويب</option>
+                            <option value="Password Cracking">كسر كلمات المرور</option>
+                            <option value="OSINT">استخبارات المصادر المفتوحة</option>
+                            <option value="Forensics">الطب الشرعي الرقمي</option>
+                            <option value="Reverse Engineering">الهندسة العكسية</option>
+                        </select>
+                    </div>
+                </div>
+                
+                <div class="grid" id="toolsGrid">
+                    <div class="loading-container">
+                        <div class="spinner"></div>
+                    </div>
+                </div>
+                
+                <!-- Bottom Ad -->
                 <div class="ad-container">
                     <div class="ad-label">إعلان</div>
-                    <div>إعلان فوتر 2</div>
+                    <div>مساحة إعلانية أسفل قسم الأدوات</div>
+                </div>
+            </section>
+            
+            <!-- Media Section -->
+            <section id="media" class="section hidden">
+                <h2 class="page-title"><i class="fas fa-photo-video"></i> الوسائط</h2>
+                
+                <div class="grid" id="mediaGrid">
+                    <!-- Media will be loaded dynamically here -->
+                </div>
+            </section>
+        </main>
+        
+        <!-- Footer -->
+        <footer>
+            <div class="container">
+                <div class="footer-content">
+                    <div class="ad-container">
+                        <div class="ad-label">إعلان</div>
+                        <div>إعلان فوتر 1</div>
+                    </div>
+                    <div class="ad-container">
+                        <div class="ad-label">إعلان</div>
+                        <div>إعلان فوتر 2</div>
+                    </div>
+                </div>
+                
+                <div class="footer-copyright">
+                    <p>جميع الحقوق محفوظة &copy; <span id="year"></span> Dvecontent</p>
                 </div>
             </div>
-            
-            <p>جميع الحقوق محفوظة &copy; <span id="year"></span></p>
         </footer>
     </div>
 
     <script>
-        /*
-        ============================================
-        إعدادات الموقع - يمكنك التعديل على هذه القسم
-        ============================================
-        */
+        // Complete Tools Data (100 tools)
+        const toolsData = [
+            {
+                id: 1,
+                title: "Wireshark",
+                description: "أداة تحليل بروتوكولات الشبكة المتقدمة",
+                link: "https://www.wireshark.org",
+                icon: "https://www.wireshark.org/assets/images/ws-logo.svg",
+                date: "2025-04-14",
+                category: "Network Analysis"
+            },
+            {
+                id: 2,
+                title: "Nmap",
+                description: "أداة مسح الشبكات واكتشاف الثغرات",
+                link: "https://nmap.org",
+                icon: "https://nmap.org/images/sitelogo.png",
+                date: "2025-04-14",
+                category: "Network Analysis"
+            },
+            {
+                id: 3,
+                title: "Metasploit",
+                description: "إطار عمل لاختبار الاختراق وتطوير البرمجيات الخبيثة",
+                link: "https://www.metasploit.com",
+                icon: "https://www.metasploit.com/assets/img/metasploit-logo.svg",
+                date: "2025-04-14",
+                category: "Exploitation"
+            },
+            {
+                id: 4,
+                title: "Burp Suite",
+                description: "منصة متكاملة لاختبار أمان تطبيقات الويب",
+                link: "https://portswigger.net/burp",
+                icon: "https://portswigger.net/burp/favicon.ico",
+                date: "2025-04-14",
+                category: "Web Exploitation"
+            },
+            {
+                id: 5,
+                title: "John the Ripper",
+                description: "أداة كسر كلمات المرور الشهيرة",
+                link: "https://www.openwall.com/john",
+                icon: "https://www.openwall.com/favicon.ico",
+                date: "2025-04-14",
+                category: "Password Cracking"
+            },
+            {
+                id: 6,
+                title: "Hydra",
+                description: "أداة كسر كلمات المرور عبر الشبكة",
+                link: "https://github.com/vanhauser-thc/thc-hydra",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-14",
+                category: "Password Cracking"
+            },
+            {
+                id: 7,
+                title: "Aircrack-ng",
+                description: "مجموعة أدوات لاختبار الشبكات اللاسلكية",
+                link: "https://www.aircrack-ng.org",
+                icon: "https://www.aircrack-ng.org/favicon.ico",
+                date: "2025-04-14",
+                category: "Wireless Hacking"
+            },
+            {
+                id: 8,
+                title: "SQLmap",
+                description: "أداة آلية لاكتشاف واستغلال ثغرات SQL Injection",
+                link: "http://sqlmap.org",
+                icon: "http://sqlmap.org/favicon.ico",
+                date: "2025-04-14",
+                category: "Web Exploitation"
+            },
+            {
+                id: 9,
+                title: "Maltego",
+                description: "أداة لتحليل الروابط وجمع المعلومات",
+                link: "https://www.maltego.com",
+                icon: "https://www.maltego.com/favicon.ico",
+                date: "2025-04-14",
+                category: "OSINT"
+            },
+            {
+                id: 10,
+                title: "theHarvester",
+                description: "أداة لجمع البريد الإلكتروني وأسماء النطاقات الفرعية",
+                link: "https://github.com/laramies/theHarvester",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-14",
+                category: "OSINT"
+            },
+            {
+                id: 11,
+                title: "WPScan",
+                description: "ماسح ثغرات ووردبريس",
+                link: "https://wpscan.com",
+                icon: "https://wpscan.com/favicon.ico",
+                date: "2025-04-14",
+                category: "Web Exploitation"
+            },
+            {
+                id: 12,
+                title: "Nikto",
+                description: "ماسح ثغرات الويب",
+                link: "https://github.com/sullo/nikto",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-14",
+                category: "Web Exploitation"
+            },
+            {
+                id: 13,
+                title: "OWASP ZAP",
+                description: "أداة اختبار اختراق تطبيقات الويب",
+                link: "https://www.zaproxy.org",
+                icon: "https://www.zaproxy.org/favicon.ico",
+                date: "2025-04-14",
+                category: "Web Exploitation"
+            },
+            {
+                id: 14,
+                title: "Gobuster",
+                description: "أداة اكتشاف المحتوى على خوادم الويب",
+                link: "https://github.com/OJ/gobuster",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-14",
+                category: "Web Exploitation"
+            },
+            {
+                id: 15,
+                title: "Dirb",
+                description: "أداة اكتشاف الدلائل والملفات المخفية على الويب",
+                link: "https://github.com/v0re/dirb",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-14",
+                category: "Web Exploitation"
+            },
+            {
+                id: 16,
+                title: "Hashcat",
+                description: "أداة تكسير كلمة مرور متقدمة",
+                link: "https://hashcat.net/hashcat",
+                icon: "https://hashcat.net/favicon.ico",
+                date: "2025-04-14",
+                category: "Password Cracking"
+            },
+            {
+                id: 17,
+                title: "Responder",
+                description: "أداة لاعتراض حركة الشبكة في هجمات MITM",
+                link: "https://github.com/lgandx/Responder",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-14",
+                category: "Network Hacking"
+            },
+            {
+                id: 18,
+                title: "Ettercap",
+                description: "أداة لتنفيذ هجمات وتحليل الشبكة MITM",
+                link: "https://www.ettercap-project.org",
+                icon: "https://www.ettercap-project.org/favicon.ico",
+                date: "2025-04-14",
+                category: "Network Hacking"
+            },
+            {
+                id: 19,
+                title: "Netdiscover",
+                description: "أداة لاكتشاف الأجهزة على الشبكة",
+                link: "https://github.com/alexxy/netdiscover",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-14",
+                category: "Network Analysis"
+            },
+            {
+                id: 20,
+                title: "Tcpdump",
+                description: "أداة لالتقاط حركة الشبكة",
+                link: "https://www.tcpdump.org",
+                icon: "https://www.tcpdump.org/favicon.ico",
+                date: "2025-04-14",
+                category: "Network Analysis"
+            },
+            {
+                id: 21,
+                title: "Snort",
+                description: "نظام كشف التسلل مفتوح المصدر",
+                link: "https://www.snort.org",
+                icon: "https://www.snort.org/favicon.ico",
+                date: "2025-04-14",
+                category: "Network Analysis"
+            },
+            {
+                id: 22,
+                title: "Zeek (Bro)",
+                description: "أداة لتحليل حركة مرور الشبكة",
+                link: "https://zeek.org",
+                icon: "https://zeek.org/favicon.ico",
+                date: "2025-04-14",
+                category: "Network Analysis"
+            },
+            {
+                id: 23,
+                title: "Tshark",
+                description: "واجهة سطر الأوامر لـ Wireshark",
+                link: "https://www.wireshark.org/docs/man-pages/tshark.html",
+                icon: "https://www.wireshark.org/favicon.ico",
+                date: "2025-04-14",
+                category: "Network Analysis"
+            },
+            {
+                id: 24,
+                title: "Fping",
+                description: "أداة لإرسال حزم ICMP بسرعة",
+                link: "https://fping.org",
+                icon: "https://fping.org/favicon.ico",
+                date: "2025-04-14",
+                category: "Network Analysis"
+            },
+            {
+                id: 25,
+                title: "ARPScan",
+                description: "أداة لاكتشاف الأجهزة عبر ARP",
+                link: "https://github.com/royhills/arp-scan",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-14",
+                category: "Network Analysis"
+            },
+            {
+                id: 26,
+                title: "zphisher",
+                description: "أداة التصيد الاحتيالي",
+                link: "https://github.com/htr-tech/zphisher",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-09",
+                category: "Social Engineering"
+            },
+            {
+                id: 27,
+                title: "SocialBox-Termux",
+                description: "أداة الهجوم على صفحات الفيسبوك وإغلاقها",
+                link: "https://github.com/samsesh/SocialBox-Termux",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-09",
+                category: "Social Engineering"
+            },
+            {
+                id: 28,
+                title: "anonphisher",
+                description: "أداة التصيد الاحتيالي المتقدمة",
+                link: "https://github.com/TermuxHackz/anonphisher",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-09",
+                category: "Social Engineering"
+            },
+            {
+                id: 29,
+                title: "wifite",
+                description: "أداة اختراق شبكات WiFi",
+                link: "https://github.com/derv82/wifite",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-09",
+                category: "Wireless Hacking"
+            },
+            {
+                id: 30,
+                title: "Kismet",
+                description: "أداة كشف الشبكات اللاسلكية",
+                link: "https://www.kismetwireless.net",
+                icon: "https://www.kismetwireless.net/favicon.ico",
+                date: "2025-04-16",
+                category: "Wireless Hacking"
+            },
+            {
+                id: 31,
+                title: "Reaver",
+                description: "أداة لكسر WPS في أجهزة الراوتر",
+                link: "https://github.com/t6x/reaver-wps-fork-t6x",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "Wireless Hacking"
+            },
+            {
+                id: 32,
+                title: "Bully",
+                description: "أداة بديلة لـ Reaver لكسر WPS",
+                link: "https://github.com/aanarchyy/bully",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "Wireless Hacking"
+            },
+            {
+                id: 33,
+                title: "Fern Wifi Cracker",
+                description: "أداة اختراق الشبكات اللاسلكية",
+                link: "https://github.com/savio-code/fern-wifi-cracker",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "Wireless Hacking"
+            },
+            {
+                id: 34,
+                title: "Wifiphisher",
+                description: "أداة لهجمات التصيد على الشبكات اللاسلكية",
+                link: "https://github.com/wifiphisher/wifiphisher",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "Wireless Hacking"
+            },
+            {
+                id: 35,
+                title: "MDK4",
+                description: "أداة لهجمات الحرمان من الخدمة على الشبكات اللاسلكية",
+                link: "https://github.com/aircrack-ng/mdk4",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "Wireless Hacking"
+            },
+            {
+                id: 36,
+                title: "Bettercap",
+                description: "إطار عمل لهجمات MITM متعددة الطبقات",
+                link: "https://www.bettercap.org",
+                icon: "https://www.bettercap.org/favicon.ico",
+                date: "2025-04-16",
+                category: "Network Hacking"
+            },
+            {
+                id: 37,
+                title: "MITMf",
+                description: "إطار عمل لهجمات MITM",
+                link: "https://github.com/byt3bl33d3r/MITMf",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "Network Hacking"
+            },
+            {
+                id: 38,
+                title: "SET (Social Engineering Toolkit)",
+                description: "أداة خطيرة لتوليد صفحات مزورة وخداع المستخدمين",
+                link: "https://github.com/trustedsec/social-engineer-toolkit",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "Social Engineering"
+            },
+            {
+                id: 39,
+                title: "BeEF",
+                description: "إطار عمل لاستغلال متصفحات الويب",
+                link: "https://beefproject.com",
+                icon: "https://beefproject.com/favicon.ico",
+                date: "2025-04-16",
+                category: "Web Exploitation"
+            },
+            {
+                id: 40,
+                title: "XSStrike",
+                description: "أداة متقدمة لاكتشاف واستغلال ثغرات XSS",
+                link: "https://github.com/s0md3v/XSStrike",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "Web Exploitation"
+            },
+            {
+                id: 41,
+                title: "Commix",
+                description: "أداة اكتشاف واستغلال ثغرات حقن الأوامر",
+                link: "https://github.com/commixproject/commix",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "Web Exploitation"
+            },
+            {
+                id: 42,
+                title: "Wapiti",
+                description: "ماسح ثغرات الويب التلقائي",
+                link: "https://github.com/wapiti-scanner/wapiti",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "Web Exploitation"
+            },
+            {
+                id: 43,
+                title: "Skipfish",
+                description: "أداة مسح أمان الويب من جوجل",
+                link: "https://github.com/spinkham/skipfish",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "Web Exploitation"
+            },
+            {
+                id: 44,
+                title: "Fierce",
+                description: "أداة مسح DNS",
+                link: "https://github.com/mschwager/fierce",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "OSINT"
+            },
+            {
+                id: 45,
+                title: "Dnsenum",
+                description: "أداة تعداد DNS",
+                link: "https://github.com/fwaeytens/dnsenum",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "OSINT"
+            },
+            {
+                id: 46,
+                title: "Dnsrecon",
+                description: "أداة استطلاع DNS",
+                link: "https://github.com/darkoperator/dnsrecon",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "OSINT"
+            },
+            {
+                id: 47,
+                title: "Sherlock",
+                description: "أداة البحث عن حسابات المستخدمين عبر الشبكات الاجتماعية",
+                link: "https://github.com/sherlock-project/sherlock",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "OSINT"
+            },
+            {
+                id: 48,
+                title: "Recon-ng",
+                description: "إطار عمل لجمع ال��علومات الاستخبارية",
+                link: "https://github.com/lanmaster53/recon-ng",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "OSINT"
+            },
+            {
+                id: 49,
+                title: "SpiderFoot",
+                description: "أداة استخبارات المصادر المفتوحة",
+                link: "https://github.com/smicallef/spiderfoot",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "OSINT"
+            },
+            {
+                id: 50,
+                title: "Shodan",
+                description: "محرك بحث لأجهزة الإنترنت",
+                link: "https://www.shodan.io",
+                icon: "https://www.shodan.io/favicon.ico",
+                date: "2025-04-16",
+                category: "OSINT"
+            },
+            {
+                id: 51,
+                title: "Censys",
+                description: "منصة بحث عن الأجهزة والخدمات على الإنترنت",
+                link: "https://censys.io",
+                icon: "https://censys.io/favicon.ico",
+                date: "2025-04-16",
+                category: "OSINT"
+            },
+            {
+                id: 52,
+                title: "Metagoofil",
+                description: "أداة استخراج البيانات الوصفية من المستندات العامة",
+                link: "https://github.com/laramies/metagoofil",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "OSINT"
+            },
+            {
+                id: 53,
+                title: "theZoo",
+                description: "مختبر للبرمجيات الخبيثة",
+                link: "https://github.com/ytisf/theZoo",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "Malware Analysis"
+            },
+            {
+                id: 54,
+                title: "Radare2",
+                description: "إطار عمل عكسي للهندسة",
+                link: "https://github.com/radareorg/radare2",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "Reverse Engineering"
+            },
+            {
+                id: 55,
+                title: "Ghidra",
+                description: "أداة الهندسة العكسية من NSA",
+                link: "https://github.com/NationalSecurityAgency/ghidra",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "Reverse Engineering"
+            },
+            {
+                id: 56,
+                title: "IDA Pro",
+                description: "أداة الهندسة العكسية الاحترافية",
+                link: "https://www.hex-rays.com/IDA-pro/",
+                icon: "https://www.hex-rays.com/favicon.ico",
+                date: "2025-04-16",
+                category: "Reverse Engineering"
+            },
+            {
+                id: 57,
+                title: "OllyDbg",
+                description: "مصحح أخطاء للهندسة العكسية",
+                link: "http://www.ollydbg.de",
+                icon: "http://www.ollydbg.de/favicon.ico",
+                date: "2025-04-16",
+                category: "Reverse Engineering"
+            },
+            {
+                id: 58,
+                title: "Immunity Debugger",
+                description: "أداة تصحيح متقدمة للهندسة العكسية",
+                link: "https://www.immunityinc.com/products/debugger/",
+                icon: "https://www.immunityinc.com/favicon.ico",
+                date: "2025-04-16",
+                category: "Reverse Engineering"
+            },
+            {
+                id: 59,
+                title: "Binwalk",
+                description: "أداة تحليل الملفات الثنائية",
+                link: "https://github.com/ReFirmLabs/binwalk",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "Reverse Engineering"
+            },
+            {
+                id: 60,
+                title: "Apktool",
+                description: "أداة عكس هندسة تطبيقات Android",
+                link: "https://github.com/iBotPeaches/Apktool",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "Reverse Engineering"
+            },
+            {
+                id: 61,
+                title: "Frida",
+                description: "إطار عمل للتحليل الديناميكي",
+                link: "https://github.com/frida/frida",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "Reverse Engineering"
+            },
+            {
+                id: 62,
+                title: "MobSF",
+                description: "إطار عمل لتحليل أمان تطبيقات الموبايل",
+                link: "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "Mobile Security"
+            },
+            {
+                id: 63,
+                title: "Androguard",
+                description: "أداة لتحليل تطبيقات Android",
+                link: "https://github.com/androguard/androguard",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "Mobile Security"
+            },
+            {
+                id: 64,
+                title: "Drozer",
+                description: "إطار عمل لاختبار أمان Android",
+                link: "https://github.com/FSecureLABS/drozer",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "Mobile Security"
+            },
+            {
+                id: 65,
+                title: "Objection",
+                description: "إطار عمل لاختبار وقت تشغيل تطبيقات الموبايل",
+                link: "https://github.com/sensepost/objection",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "Mobile Security"
+            },
+            {
+                id: 66,
+                title: "Cutter",
+                description: "واجهة رسومية لـ Radare2",
+                link: "https://github.com/radareorg/cutter",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "Reverse Engineering"
+            },
+            {
+                id: 67,
+                title: "Volatility",
+                description: "إطار عمل لتحليل ذاكرة النظام",
+                link: "https://github.com/volatilityfoundation/volatility",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "Forensics"
+            },
+            {
+                id: 68,
+                title: "Autopsy",
+                description: "واجهة رسومية لأدوات الطب الشرعي الرقمي",
+                link: "https://www.autopsy.com",
+                icon: "https://www.autopsy.com/favicon.ico",
+                date: "2025-04-16",
+                category: "Forensics"
+            },
+            {
+                id: 69,
+                title: "Sleuth Kit",
+                description: "مجموعة أدوات الطب الشرعي الرقمي",
+                link: "https://www.sleuthkit.org",
+                icon: "https://www.sleuthkit.org/favicon.ico",
+                date: "2025-04-16",
+                category: "Forensics"
+            },
+            {
+                id: 70,
+                title: "Scapy",
+                description: "أداة لمعالجة حزم الشبكة",
+                link: "https://scapy.net",
+                icon: "https://scapy.net/favicon.ico",
+                date: "2025-04-16",
+                category: "Network Analysis"
+            },
+            {
+                id: 71,
+                title: "Nessus",
+                description: "ماسح ثغرات احترافي",
+                link: "https://www.tenable.com/products/nessus",
+                icon: "https://www.tenable.com/favicon.ico",
+                date: "2025-04-16",
+                category: "Vulnerability Scanning"
+            },
+            {
+                id: 72,
+                title: "OpenVAS",
+                description: "نظام مفتوح المصدر لفحص الثغرات",
+                link: "https://www.openvas.org",
+                icon: "https://www.openvas.org/favicon.ico",
+                date: "2025-04-16",
+                category: "Vulnerability Scanning"
+            },
+            {
+                id: 73,
+                title: "Nexpose",
+                description: "حل إدارة الثغرات من Rapid7",
+                link: "https://www.rapid7.com/products/nexpose/",
+                icon: "https://www.rapid7.com/favicon.ico",
+                date: "2025-04-16",
+                category: "Vulnerability Scanning"
+            },
+            {
+                id: 74,
+                title: "Qualys",
+                description: "منصة إدارة الثغرات السحابية",
+                link: "https://www.qualys.com",
+                icon: "https://www.qualys.com/favicon.ico",
+                date: "2025-04-16",
+                category: "Vulnerability Scanning"
+            },
+            {
+                id: 75,
+                title: "Kali Linux",
+                description: "توزيعة لينكس مخصصة لاختبار الاختراق",
+                link: "https://www.kali.org",
+                icon: "https://www.kali.org/favicon.ico",
+                date: "2025-04-16",
+                category: "Operating Systems"
+            },
+            {
+                id: 76,
+                title: "Parrot OS",
+                description: "توزيعة أمان واختبار اختراق",
+                link: "https://www.parrotsec.org",
+                icon: "https://www.parrotsec.org/favicon.ico",
+                date: "2025-04-16",
+                category: "Operating Systems"
+            },
+            {
+                id: 77,
+                title: "BlackArch",
+                description: "توزيعة لينكس للأمن السيبراني",
+                link: "https://blackarch.org",
+                icon: "https://blackarch.org/favicon.ico",
+                date: "2025-04-16",
+                category: "Operating Systems"
+            },
+            {
+                id: 78,
+                title: "Pentoo",
+                description: "توزيعة اختبار اختراق مبنية على Gentoo",
+                link: "http://www.pentoo.ch",
+                icon: "http://www.pentoo.ch/favicon.ico",
+                date: "2025-04-16",
+                category: "Operating Systems"
+            },
+            {
+                id: 79,
+                title: "Tails",
+                description: "نظام تشغيل للحفاظ على الخصوصية",
+                link: "https://tails.boum.org",
+                icon: "https://tails.boum.org/favicon.ico",
+                date: "2025-04-16",
+                category: "Operating Systems"
+            },
+            {
+                id: 80,
+                title: "Qubes OS",
+                description: "نظام تشغيل آمن يعتمد على العزل",
+                link: "https://www.qubes-os.org",
+                icon: "https://www.qubes-os.org/favicon.ico",
+                date: "2025-04-16",
+                category: "Operating Systems"
+            },
+            {
+                id: 81,
+                title: "Whonix",
+                description: "نظام تشغيل للحفاظ على الخصوصية يعمل على VirtualBox",
+                link: "https://www.whonix.org",
+                icon: "https://www.whonix.org/favicon.ico",
+                date: "2025-04-16",
+                category: "Operating Systems"
+            },
+            {
+                id: 82,
+                title: "Subgraph OS",
+                description: "نظام تشغيل آمن ومقاوم للهجوم",
+                link: "https://subgraph.com",
+                icon: "https://subgraph.com/favicon.ico",
+                date: "2025-04-16",
+                category: "Operating Systems"
+            },
+            {
+                id: 83,
+                title: "Caine",
+                description: "توزيعة الطب الشرعي الرقمي",
+                link: "https://www.caine-live.net",
+                icon: "https://www.caine-live.net/favicon.ico",
+                date: "2025-04-16",
+                category: "Forensics"
+            },
+            {
+                id: 84,
+                title: "DEFT",
+                description: "توزيعة الطب الشرعي الرقمي",
+                link: "http://www.deftlinux.net",
+                icon: "http://www.deftlinux.net/favicon.ico",
+                date: "2025-04-16",
+                category: "Forensics"
+            },
+            {
+                id: 85,
+                title: "Security Onion",
+                description: "توزيعة لمراقبة الشبكة واكتشاف التسلل",
+                link: "https://securityonion.net",
+                icon: "https://securityonion.net/favicon.ico",
+                date: "2025-04-16",
+                category: "Intrusion Detection"
+            },
+            {
+                id: 86,
+                title: "pfSense",
+                description: "جدار حماية وتوجيه مفتوح المصدر",
+                link: "https://www.pfsense.org",
+                icon: "https://www.pfsense.org/favicon.ico",
+                date: "2025-04-16",
+                category: "Network Security"
+            },
+            {
+                id: 87,
+                title: "OPNsense",
+                description: "جدار حماية وتوجيه مفتوح المصدر",
+                link: "https://opnsense.org",
+                icon: "https://opnsense.org/favicon.ico",
+                date: "2025-04-16",
+                category: "Network Security"
+            },
+            {
+                id: 88,
+                title: "Alpine Linux",
+                description: "توزيعة لينكس خفيفة الوزن للأمن",
+                link: "https://alpinelinux.org",
+                icon: "https://alpinelinux.org/favicon.ico",
+                date: "2025-04-16",
+                category: "Operating Systems"
+            },
+            {
+                id: 89,
+                title: "ArchStrike",
+                description: "مستودع أدوات الأمن لـ Arch Linux",
+                link: "https://archstrike.org",
+                icon: "https://archstrike.org/favicon.ico",
+                date: "2025-04-16",
+                category: "Operating Systems"
+            },
+            {
+                id: 90,
+                title: "BackBox",
+                description: "توزيعة اختبار اختراق",
+                link: "https://www.backbox.org",
+                icon: "https://www.backbox.org/favicon.ico",
+                date: "2025-04-16",
+                category: "Operating Systems"
+            },
+            {
+                id: 91,
+                title: "Bugtraq",
+                description: "توزيعة اختبار اختراق",
+                link: "http://bugtraq-team.com",
+                icon: "http://bugtraq-team.com/favicon.ico",
+                date: "2025-04-16",
+                category: "Operating Systems"
+            },
+            {
+                id: 92,
+                title: "Cyborg Hawk",
+                description: "توزيعة اختبار اختراق",
+                link: "https://cyborg.ztrela.com",
+                icon: "https://cyborg.ztrela.com/favicon.ico",
+                date: "2025-04-16",
+                category: "Operating Systems"
+            },
+            {
+                id: 93,
+                title: "Fedora Security Lab",
+                description: "توزيعة اختبار اختراق من Fedora",
+                link: "https://labs.fedoraproject.org/security",
+                icon: "https://labs.fedoraproject.org/favicon.ico",
+                date: "2025-04-16",
+                category: "Operating Systems"
+            },
+            {
+                id: 94,
+                title: "SamuraiWTF",
+                description: "توزيعة اختبار اختراق الويب",
+                link: "http://www.samurai-wtf.org",
+                icon: "http://www.samurai-wtf.org/favicon.ico",
+                date: "2025-04-16",
+                category: "Operating Systems"
+            },
+            {
+                id: 95,
+                title: "Wifislax",
+                description: "توزيعة اختبار اختراق الشبكات اللاسلكية",
+                link: "https://www.wifislax.com",
+                icon: "https://www.wifislax.com/favicon.ico",
+                date: "2025-04-16",
+                category: "Wireless Hacking"
+            },
+            {
+                id: 96,
+                title: "Network Security Toolkit",
+                description: "توزيعة أدوات أمان الشبكة",
+                link: "https://www.networksecuritytoolkit.org",
+                icon: "https://www.networksecuritytoolkit.org/favicon.ico",
+                date: "2025-04-16",
+                category: "Network Security"
+            },
+            {
+                id: 97,
+                title: "PhoneInfoga",
+                description: "أداة جمع معلومات عن طريق رقم الهاتف",
+                link: "https://github.com/ExpertAnonymous/PhoneInfoga",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-09",
+                category: "OSINT"
+            },
+            {
+                id: 98,
+                title: "Maltego TRX",
+                description: "أداة لتحليل الروابط وجمع المعلومات",
+                link: "https://github.com/MaltegoTech/maltego-trx",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "OSINT"
+            },
+            {
+                id: 99,
+                title: "Amass",
+                description: "أداة لرسم خرائط سطح الهجوم واكتشاف الأصول",
+                link: "https://github.com/owasp-amass/amass",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "OSINT"
+            },
+            {
+                id: 100,
+                title: "Slowloris",
+                description: "أداة لتنفيذ هجمات حجب الخدمة",
+                link: "https://github.com/gkbrk/slowloris",
+                icon: "https://github.githubassets.com/favicons/favicon.png",
+                date: "2025-04-16",
+                category: "DDoS"
+            }
+        ];
 
-        // لون خلفية الموقع (يمكن تغييره)
-        // document.body.style.backgroundColor = "#f5f9ff";
-
-        /*
-        ============================================
-        بيانات المحتوى (يتم التعديل عليها يدويًا في الكود)
-        ============================================
-        */
-
+        // Content Data
         const contentData = {
             apps: [
-                // نموذج لإضافة تطبيق جديد
                 {
                     id: 1,
-                    title: "قريبا",
-                    description: "//",
-                    version: "",
-                    size: "",
-                    image: "",
+                    title: "قريباً",
+                    description: "تطبيقات متخصصة في الأمن السيبراني قيد التطوير",
+                    version: "1.0.0",
+                    size: "15MB",
+                    image: "https://via.placeholder.com/150",
                     downloadLink: "",
                     detailsLink: "#",
-                    date: ""
+                    date: "2025-04-16"
                 }
-                // يمكن إضافة المزيد من التطبيقات هنا
-            ],  
-             
-            tools = [
-    // الأدوات الأساسية (ذات الصور المتكررة)
-    {
-        id: 1,
-        title: "Wireshark",
-        description: "أداة تحليل بروتوكولات الشبكة",
-        link: "https://github.com/wireshark/wireshark",
-        icon: "foto/Screenshot_٢٠٢٥-٠٤-٠٩-٠٨-٣٢-٥٨-٦٧٠_com.Daniex.termux.kits.tool-edit.jpg",
-        date: "2025-04-14",
-        category: "Network Analysis"
-    },
-    {
-        id: 2,
-        title: "Tcpdump",
-        description: "أداة لالتقاط وتحليل حزم الشبكة",
-        link: "https://github.com/the-tcpdump-group/tcpdump",
-        icon: "foto/Screenshot_٢٠٢٥-٠٤-٠٩-٠٨-٣٢-٥٨-٦٧٠_com.Daniex.termux.kits.tool-edit.jpg",
-        date: "2025-04-14",
-        category: "Network Analysis"
-    },
-    {
-        id: 3,
-        title: "Ettercap",
-        description: "أداة لتنفيذ هجمات وتحليل الشبكة MITM",
-        link: "https://github.com/Ettercap/ettercap",
-        icon: "foto/Screenshot_٢٠٢٥-٠٤-٠٩-٠٨-٣٢-٥٨-٦٧٠_com.Daniex.termux.kits.tool-edit.jpg",
-        date: "2025-04-14",
-        category: "Network Hacking"
-    },
-    {
-        id: 4,
-        title: "MITMf",
-        description: "إطار عمل لهجمات MITM",
-        link: "https://github.com/byt3bl33d3r/MITMf",
-        icon: "foto/Screenshot_٢٠٢٥-٠٤-٠٩-٠٨-٣٢-٥٨-٦٧٠_com.Daniex.termux.kits.tool-edit.jpg",
-        date: "2025-04-14",
-        category: "Network Hacking"
-    },
-    {
-        id: 5,
-        title: "Netdiscover",
-        description: "أداة لاكتشاف الأجهزة على الشبكة",
-        link: "https://github.com/alexxy/netdiscover",
-        icon: "foto/Screenshot_٢٠٢٥-٠٤-٠٩-٠٨-٣٢-٥٨-٦٧٠_com.Daniex.termux.kits.tool-edit.jpg",
-        date: "2025-04-14",
-        category: "Network Scanning"
-    },
-    {
-        id: 6,
-        title: "Snort",
-        description: "نظام كشف التسلل مفتوح المصدر",
-        link: "https://github.com/snort3/snort3",
-        icon: "foto/Screenshot_٢٠٢٥-٠٤-٠٩-٠٨-٣٢-٥٨-٦٧٠_com.Daniex.termux.kits.tool-edit.jpg",
-        date: "2025-04-14",
-        category: "Intrusion Detection"
-    },
-    {
-        id: 7,
-        title: "Zeek (Bro)",
-        description: "أداة لتحليل حركة مرور الشبكة",
-        link: "https://github.com/zeek/zeek",
-        icon: "foto/Screenshot_٢٠٢٥-٠٤-٠٩-٠٨-٣٢-٥٨-٦٧٠_com.Daniex.termux.kits.tool-edit.jpg",
-        date: "2025-04-14",
-        category: "Network Analysis"
-    },
-    {
-        id: 8,
-        title: "Tshark",
-        description: "واجهة سطر الأوامر لـ Wireshark",
-        link: "https://github.com/wireshark/wireshark",
-        icon: "foto/Screenshot_٢٠٢٥-٠٤-٠٩-٠٨-٣٢-٥٨-٦٧٠_com.Daniex.termux.kits.tool-edit.jpg",
-        date: "2025-04-14",
-        category: "Network Analysis"
-    },
-    {
-        id: 9,
-        title: "Fping",
-        description: "أداة لإرسال حزم ICMP بسرعة",
-        link: "https://github.com/schweikert/fping",
-        icon: "foto/Screenshot_٢٠٢٥-٠٤-٠٩-٠٨-٣٢-٥٨-٦٧٠_com.Daniex.termux.kits.tool-edit.jpg",
-        date: "2025-04-14",
-        category: "Network Scanning"
-    },
-    {
-        id: 10,
-        title: "ARPScan",
-        description: "أداة لاكتشاف الأجهزة عبر ARP",
-        link: "https://github.com/royhills/arp-scan",
-        icon: "foto/Screenshot_٢٠٢٥-٠٤-٠٩-٠٨-٣٢-٥٨-٦٧٠_com.Daniex.termux.kits.tool-edit.jpg",
-        date: "2025-04-14",
-        category: "Network Scanning"
-    },
-
-    // أدوات التصيد الاحتيالي والأمن السيبراني
-    {
-        id: 11,
-        title: "zphisher",
-        description: "أداة التصيد الاحتيالي",
-        link: "https://github.com/htr-tech/zphisher",
-        icon: "foto/Screenshot_٢٠٢٥-٠٤-٠٩-٠٨-٣٢-٥٨-٦٧٠_com.Daniex.termux.kits.tool-edit.jpg",
-        date: "2025-04-09",
-        category: "Phishing"
-    },
-    {
-        id: 12,
-        title: "SocialBox-Termux",
-        description: "أداة الهجوم على صفحات الفيسبوك وإغلاقها",
-        link: "https://github.com/samsesh/SocialBox-Termux",
-        icon: "foto/Screenshot_٢٠٢٥-٠٤-٠٩-٠٨-٣٤-٠٩-٨٧٧_com.Daniex.termux.kits.tool-edit.jpg",
-        date: "2025-04-09",
-        category: "Social Media Hacking"
-    },
-    {
-        id: 13,
-        title: "anonphisher",
-        description: "أداة التصيد الاحتيالي المتقدمة",
-        link: "https://github.com/TermuxHackz/anonphisher",
-        icon: "foto/Screenshot_٢٠٢٥-٠٤-٠٩-٠٨-٣٣-٣١-٠٢٢_com.Daniex.termux.kits.tool-edit.jpg",
-        date: "2025-04-09",
-        category: "Phishing"
-    },
-
-    // أدوات اختراق الشبكات اللاسلكية
-    {
-        id: 14,
-        title: "wifite",
-        description: "أداة اختراق شبكات WiFi",
-        link: "https://github.com/derv82/wifite",
-        icon: "foto/Screenshot_٢٠٢٥-٠٤-٠٩-٠٨-٣٥-١٤-٢١٤_com.Daniex.termux.kits.tool-edit.jpg",
-        date: "2025-04-09",
-        category: "Wireless Hacking"
-    },
-    {
-        id: 15,
-        title: "Aircrack-ng",
-        description: "مجموعة أدوات لاختبار الشبكات اللاسلكية",
-        link: "https://github.com/aircrack-ng/aircrack-ng",
-        icon: "foto/wireless_tools.jpg",
-        date: "2025-04-16",
-        category: "Wireless Hacking"
-    },
-
-    // أدوات مسح الشبكات والثغرات
-    {
-        id: 16,
-        title: "nmap",
-        description: "أداة مسح الشبكات واكتشاف الثغرات",
-        link: "https://github.com/nmap/nmap",
-        icon: "foto/Screenshot_٢٠٢٥-٠٤-٠٩-٠٨-٣٥-٣٢-٨٦٣_com.Daniex.termux.kits.tool-edit.jpg",
-        date: "2025-04-09",
-        category: "Network Scanning"
-    },
-    {
-        id: 17,
-        title: "Metasploit Framework",
-        description: "إطار عمل لاختبار الاختراق وتطوير البرمجيات الخبيثة",
-        link: "https://github.com/rapid7/metasploit-framework",
-        icon: "foto/exploitation_tools.jpg",
-        date: "2025-04-16",
-        category: "Exploitation"
-    },
-
-    // أدوات كسر كلمات المرور
-    {
-        id: 18,
-        title: "hydra",
-        description: "أداة كسر كلمات المرور",
-        link: "https://github.com/vanhauser-thc/thc-hydra",
-        icon: "foto/Screenshot_٢٠٢٥-٠٤-٠٩-٠٨-٣٨-٤٥-٤٥٢_com.Daniex.termux.kits.tool-edit.jpg",
-        date: "2025-04-09",
-        category: "Password Cracking"
-    },
-    {
-        id: 19,
-        title: "hashcat",
-        description: "أداة تكسير كلمة مرور متقدمة",
-        link: "https://github.com/hashcat/hashcat",
-        icon: "foto/Screenshot_٢٠٢٥-٠٤-٠٩-٠٨-٣٤-٤٨-٩٢١_com.Daniex.termux.kits.tool-edit.jpg",
-        date: "2025-04-09",
-        category: "Password Cracking"
-    },
-    {
-        id: 20,
-        title: "cupp",
-        description: "أداة لتخمين كلمات المرور",
-        link: "https://github.com/Mebus/cupp",
-        icon: "foto/Screenshot_٢٠٢٥-٠٤-٠٩-٠٨-٣٩-٠٨-٥٧٢_com.Daniex.termux.kits.tool-edit.jpg",
-        date: "2025-04-09",
-        category: "Password Cracking"
-    },
-    {
-        id: 21,
-        title: "lazybee",
-        description: "أداة توليد كلمات المرور",
-        link: "https://github.com/noob-hackers/lazybee",
-        icon: "foto/Screenshot_٢٠٢٥-٠٤-٠٩-٠٨-٤٠-٤٠-٦٦٠_com.Daniex.termux.kits.tool-edit.jpg",
-        date: "2025-04-09",
-        category: "Password Cracking"
-    },
-
-    // أدوات جمع المعلومات
-    {
-        id: 22,
-        title: "PhoneInfoga",
-        description: "أداة جمع معلومات عن طريق رقم الهاتف",
-        link: "https://github.com/ExpertAnonymous/PhoneInfoga",
-        icon: "foto/Screenshot_٢٠٢٥-٠٤-٠٩-٠٨-٣٩-٢٣-٧٢٤_com.Daniex.termux.kits.tool-edit.jpg",
-        date: "2025-04-09",
-        category: "OSINT"
-    },
-    {
-        id: 23,
-        title: "Maltego TRX",
-        description: "أداة لتحليل الروابط وجمع المعلومات",
-        link: "https://github.com/MaltegoTech/maltego-trx",
-        icon: "foto/osint_tools.jpg",
-        date: "2025-04-16",
-        category: "OSINT"
-    },
-    {
-        id: 24,
-        title: "theHarvester",
-        description: "أداة لجمع البريد الإلكتروني وأسماء النطاقات الفرعية",
-        link: "https://github.com/laramies/theHarvester",
-        icon: "foto/osint_tools.jpg",
-        date: "2025-04-16",
-        category: "OSINT"
-    },
-    {
-        id: 25,
-        title: "Amass",
-        description: "أداة لرسم خرائط سطح الهجوم واكتشاف الأصول",
-        link: "https://github.com/owasp-amass/amass",
-        icon: "foto/osint_tools.jpg",
-        date: "2025-04-16",
-        category: "OSINT"
-    },
-
-    // أدوات استغلال الويب
-    {
-        id: 26,
-        title: "SQLmap",
-        description: "أداة آلية لاكتشاف واستغلال ثغرات SQL Injection",
-        link: "https://github.com/sqlmapproject/sqlmap",
-        icon: "foto/database_tools.jpg",
-        date: "2025-04-16",
-        category: "Web Exploitation"
-    },
-    {
-        id: 27,
-        title: "BeEF",
-        description: "إطار عمل لاستغلال متصفحات الويب",
-        link: "https://github.com/beefproject/beef",
-        icon: "foto/web_tools.jpg",
-        date: "2025-04-16",
-        category: "Web Exploitation"
-    },
-    {
-        id: 28,
-        title: "XSStrike",
-        description: "أداة متقدمة لاكتشاف واستغلال ثغرات XSS",
-        link: "https://github.com/s0md3v/XSStrike",
-        icon: "foto/web_tools.jpg",
-        date: "2025-04-16",
-        category: "Web Exploitation"
-    },
-
-    // أدوات أخرى
-    {
-        id: 29,
-        title: "Responder",
-        description: "أداة لاعتراض حركة الشبكة في هجمات MITM",
-        link: "https://github.com/lgandx/Responder",
-        icon: "foto/network_tools.jpg",
-        date: "2025-04-16",
-        category: "Network Hacking"
-    },
-    {
-        id: 30,
-        title: "Evilginx2",
-        description: "إطار عمل لهجمات التصيد الاحتيالي المتقدمة",
-        link: "https://github.com/kgretzky/evilginx2",
-        icon: "foto/phishing_tools.jpg",
-        date: "2025-04-16",
-        category: "Phishing"
-    },
-    {
-        id: 31,
-        title: "igbrute",
-        description: "أداة اختراق حسابات إنستغرام",
-        link: "https://github.com/dark-player/igbrute",
-        icon: "foto/Screenshot_٢٠٢٥-٠٤-٠٩-٠٨-٣٩-٤٣-٤٨٩_com.Daniex.termux.kits.tool-edit.jpg",
-        date: "2025-04-09",
-        category: "Social Media Hacking"
-    },
-    {
-        id: 32,
-        title: "BluForce-FB",
-        description: "أداة الهجوم بالقوة الغاشمة على الفيسبوك",
-        link: "https://github.com/AngelSecurityTeam/BluForce-FB",
-        icon: "foto/Screenshot_٢٠٢٥-٠٤-٠٩-٠٨-٣٣-٤٦-٧٥٠_com.Daniex.termux.kits.tool-edit.jpg",
-        date: "2025-04-09",
-        category: "Social Media Hacking"
-    },
-    {
-        id: 33,
-        title: "cam-virus",
-        description: "أداة اختراق كاميرا الضحية عن طريق رابط",
-        link: "https://github.com/SiddhantOffl/cam-virus",
-        icon: "foto/Screenshot_٢٠٢٥-٠٤-٠٩-٠٨-٣٤-٢٥-٤٦٥_com.Daniex.termux.kits.tool-edit.jpg",
-        date: "2025-04-09",
-        category: "Exploitation"
-    },
-    {
-        id: 34,
-        title: "SET (Social Engineering Toolkit)",
-        description: "أداة خطيرة لتوليد صفحات مزورة وخداع المستخدمين",
-        link: "https://github.com/trustedsec/social-engineer-toolkit",
-        icon: "foto/phishing_tools.jpg",
-        date: "2025-04-16",
-        category: "Phishing"
-    },
-    {
-        id: 35,
-        title: "Slowloris",
-        description: "أداة لتنفيذ هجمات حجب الخدمة",
-        link: "https://github.com/gkbrk/slowloris",
-        icon: "foto/ddos_tools.jpg",
-        date: "2025-04-16",
-        category: "DDoS"
-    },
-    {
-        id: 36,
-        title: "John the Ripper",
-        description: "أداة كسر كلمات المرور الشهيرة",
-        link: "https://github.com/openwall/john",
-        icon: "foto/password_tools.jpg",
-        date: "2025-04-16",
-        category: "Password Cracking"
-    },
-    {
-        id: 37,
-        title: "Burp Suite",
-        description: "منصة متكاملة لاختبار أمان تطبيقات الويب",
-        link: "https://portswigger.net/burp",
-        icon: "foto/web_tools.jpg",
-        date: "2025-04-16",
-        category: "Web Exploitation"
-    },
-    {
-        id: 38,
-        title: "Nikto",
-        description: "ماسح ثغرات الويب",
-        link: "https://github.com/sullo/nikto",
-        icon: "foto/web_tools.jpg",
-        date: "2025-04-16",
-        category: "Web Scanning"
-    },
-    {
-        id: 39,
-        title: "Dirb",
-        description: "أداة اكتشاف الدلائل والملفات المخفية على الويب",
-        link: "https://github.com/v0re/dirb",
-        icon: "foto/web_tools.jpg",
-        date: "2025-04-16",
-        category: "Web Scanning"
-    },
-    {
-        id: 40,
-        title: "Gobuster",
-        description: "أداة اكتشاف المحتوى على خوادم الويب",
-        link: "https://github.com/OJ/gobuster",
-        icon: "foto/web_tools.jpg",
-        date: "2025-04-16",
-        category: "Web Scanning"
-    },
-    {
-        id: 41,
-        title: "WPScan",
-        description: "ماسح ثغرات ووردبريس",
-        link: "https://github.com/wpscanteam/wpscan",
-        icon: "foto/web_tools.jpg",
-        date: "2025-04-16",
-        category: "Web Scanning"
-    },
-    {
-        id: 42,
-        title: "Commix",
-        description: "أداة اكتشاف واستغلال ثغرات حقن الأوامر",
-        link: "https://github.com/commixproject/commix",
-        icon: "foto/web_tools.jpg",
-        date: "2025-04-16",
-        category: "Web Exploitation"
-    },
-    {
-        id: 43,
-        title: "Wapiti",
-        description: "ماسح ثغرات الويب التلقائي",
-        link: "https://github.com/wapiti-scanner/wapiti",
-        icon: "foto/web_tools.jpg",
-        date: "2025-04-16",
-        category: "Web Scanning"
-    },
-    {
-        id: 44,
-        title: "Skipfish",
-        description: "أداة مسح أمان الويب من جوجل",
-        link: "https://github.com/spinkham/skipfish",
-        icon: "foto/web_tools.jpg",
-        date: "2025-04-16",
-        category: "Web Scanning"
-    },
-    {
-        id: 45,
-        title: "OWASP ZAP",
-        description: "أداة اختبار اختراق تطبيقات الويب",
-        link: "https://github.com/zaproxy/zaproxy",
-        icon: "foto/web_tools.jpg",
-        date: "2025-04-16",
-        category: "Web Exploitation"
-    },
-    {
-        id: 46,
-        title: "Fierce",
-        description: "أداة مسح DNS",
-        link: "https://github.com/mschwager/fierce",
-        icon: "foto/osint_tools.jpg",
-        date: "2025-04-16",
-        category: "OSINT"
-    },
-    {
-        id: 47,
-        title: "Dnsenum",
-        description: "أداة تعداد DNS",
-        link: "https://github.com/fwaeytens/dnsenum",
-        icon: "foto/osint_tools.jpg",
-        date: "2025-04-16",
-        category: "OSINT"
-    },
-    {
-        id: 48,
-        title: "Dnsrecon",
-        description: "أداة استطلاع DNS",
-        link: "https://github.com/darkoperator/dnsrecon",
-        icon: "foto/osint_tools.jpg",
-        date: "2025-04-16",
-        category: "OSINT"
-    },
-    {
-        id: 49,
-        title: "Sherlock",
-        description: "أداة البحث عن حسابات المستخدمين عبر الشبكات الاجتماعية",
-        link: "https://github.com/sherlock-project/sherlock",
-        icon: "foto/osint_tools.jpg",
-        date: "2025-04-16",
-        category: "OSINT"
-    },
-    {
-        id: 50,
-        title: "Recon-ng",
-        description: "إطار عمل لجمع المعلومات الاستخبارية",
-        link: "https://github.com/lanmaster53/recon-ng",
-        icon: "foto/osint_tools.jpg",
-        date: "2025-04-16",
-        category: "OSINT"
-    },
-    {
-        id: 51,
-        title: "SpiderFoot",
-        description: "أداة استخبارات المصادر المفتوحة",
-        link: "https://github.com/smicallef/spiderfoot",
-        icon: "foto/osint_tools.jpg",
-        date: "2025-04-16",
-        category: "OSINT"
-    },
-    {
-        id: 52,
-        title: "Shodan",
-        description: "محرك بحث لأجهزة الإنترنت",
-        link: "https://www.shodan.io",
-        icon: "foto/osint_tools.jpg",
-        date: "2025-04-16",
-        category: "OSINT"
-    },
-    {
-        id: 53,
-        title: "Censys",
-        description: "منصة بحث عن الأجهزة والخدمات على الإنترنت",
-        link: "https://censys.io",
-        icon: "foto/osint_tools.jpg",
-        date: "2025-04-16",
-        category: "OSINT"
-    },
-    {
-        id: 54,
-        title: "Metagoofil",
-        description: "أداة استخراج البيانات الوصفية من المستندات العامة",
-        link: "https://github.com/laramies/metagoofil",
-        icon: "foto/osint_tools.jpg",
-        date: "2025-04-16",
-        category: "OSINT"
-    },
-    {
-        id: 55,
-        title: "theZoo",
-        description: "مختبر للبرمجيات الخبيثة",
-        link: "https://github.com/ytisf/theZoo",
-        icon: "foto/malware_tools.jpg",
-        date: "2025-04-16",
-        category: "Malware Analysis"
-    },
-    {
-        id: 56,
-        title: "Radare2",
-        description: "إطار عمل عكسي للهندسة",
-        link: "https://github.com/radareorg/radare2",
-        icon: "foto/reverse_tools.jpg",
-        date: "2025-04-16",
-        category: "Reverse Engineering"
-    },
-    {
-        id: 57,
-        title: "Ghidra",
-        description: "أداة الهندسة العكسية من NSA",
-        link: "https://github.com/NationalSecurityAgency/ghidra",
-        icon: "foto/reverse_tools.jpg",
-        date: "2025-04-16",
-        category: "Reverse Engineering"
-    },
-    {
-        id: 58,
-        title: "IDA Pro",
-        description: "أداة الهندسة العكسية الاحترافية",
-        link: "https://www.hex-rays.com/IDA-pro/",
-        icon: "foto/reverse_tools.jpg",
-        date: "2025-04-16",
-        category: "Reverse Engineering"
-    },
-    {
-        id: 59,
-        title: "OllyDbg",
-        description: "مصحح أخطاء للهندسة العكسية",
-        link: "http://www.ollydbg.de",
-        icon: "foto/reverse_tools.jpg",
-        date: "2025-04-16",
-        category: "Reverse Engineering"
-    },
-    {
-        id: 60,
-        title: "Immunity Debugger",
-        description: "أداة تصحيح متقدمة للهندسة العكسية",
-        link: "https://www.immunityinc.com/products/debugger/",
-        icon: "foto/reverse_tools.jpg",
-        date: "2025-04-16",
-        category: "Reverse Engineering"
-    },
-    {
-        id: 61,
-        title: "Binwalk",
-        description: "أداة تحليل الملفات الثنائية",
-        link: "https://github.com/ReFirmLabs/binwalk",
-        icon: "foto/reverse_tools.jpg",
-        date: "2025-04-16",
-        category: "Reverse Engineering"
-    },
-    {
-        id: 62,
-        title: "Apktool",
-        description: "أداة عكس هندسة تطبيقات Android",
-        link: "https://github.com/iBotPeaches/Apktool",
-        icon: "foto/reverse_tools.jpg",
-        date: "2025-04-16",
-        category: "Reverse Engineering"
-    },
-    {
-        id: 63,
-        title: "Frida",
-        description: "إطار عمل للتحليل الديناميكي",
-        link: "https://github.com/frida/frida",
-        icon: "foto/reverse_tools.jpg",
-        date: "2025-04-16",
-        category: "Reverse Engineering"
-    },
-    {
-        id: 64,
-        title: "MobSF",
-        description: "إطار عمل لتحليل أمان تطبيقات الموبايل",
-        link: "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
-        icon: "foto/mobile_tools.jpg",
-        date: "2025-04-16",
-        category: "Mobile Security"
-    },
-    {
-        id: 65,
-        title: "Androguard",
-        description: "أداة لتحليل تطبيقات Android",
-        link: "https://github.com/androguard/androguard",
-        icon: "foto/mobile_tools.jpg",
-        date: "2025-04-16",
-        category: "Mobile Security"
-    },
-    {
-        id: 66,
-        title: "Drozer",
-        description: "إطار عمل لاختبار أمان Android",
-        link: "https://github.com/FSecureLABS/drozer",
-        icon: "foto/mobile_tools.jpg",
-        date: "2025-04-16",
-        category: "Mobile Security"
-    },
-    {
-        id: 67,
-        title: "Objection",
-        description: "إطار عمل لاختبار وقت تشغيل تطبيقات الموبايل",
-        link: "https://github.com/sensepost/objection",
-        icon: "foto/mobile_tools.jpg",
-        date: "2025-04-16",
-        category: "Mobile Security"
-    },
-    {
-        id: 68,
-        title: "Cutter",
-        description: "واجهة رسومية لـ Radare2",
-        link: "https://github.com/radareorg/cutter",
-        icon: "foto/reverse_tools.jpg",
-        date: "2025-04-16",
-        category: "Reverse Engineering"
-    },
-    {
-        id: 69,
-        title: "Volatility",
-        description: "إطار عمل لتحليل ذاكرة النظام",
-        link: "https://github.com/volatilityfoundation/volatility",
-        icon: "foto/forensics_tools.jpg",
-        date: "2025-04-16",
-        category: "Forensics"
-    },
-    {
-        id: 70,
-        title: "Autopsy",
-        description: "واجهة رسومية لأدوات الطب الشرعي الرقمي",
-        link: "https://www.autopsy.com",
-        icon: "foto/forensics_tools.jpg",
-        date: "2025-04-16",
-        category: "Forensics"
-    },
-    {
-        id: 71,
-        title: "Sleuth Kit",
-        description: "مجموعة أدوات الطب الشرعي الرقمي",
-        link: "https://www.sleuthkit.org",
-        icon: "foto/forensics_tools.jpg",
-        date: "2025-04-16",
-        category: "Forensics"
-    },
-    {
-        id: 72,
-        title: "Wireshark",
-        description: "محلل بروتوكولات الشبكة",
-        link: "https://www.wireshark.org",
-        icon: "foto/network_tools.jpg",
-        date: "2025-04-16",
-        category: "Network Analysis"
-    },
-    {
-        id: 73,
-        title: "Tcpdump",
-        description: "أداة لالتقاط حركة الشبكة",
-        link: "https://www.tcpdump.org",
-        icon: "foto/network_tools.jpg",
-        date: "2025-04-16",
-        category: "Network Analysis"
-    },
-    {
-        id: 74,
-        title: "Scapy",
-        description: "أداة لمعالجة حزم الشبكة",
-        link: "https://github.com/secdev/scapy",
-        icon: "foto/network_tools.jpg",
-        date: "2025-04-16",
-        category: "Network Analysis"
-    },
-    {
-        id: 75,
-        title: "Nessus",
-        description: "ماسح ثغرات احترافي",
-        link: "https://www.tenable.com/products/nessus",
-        icon: "foto/vulnerability_tools.jpg",
-        date: "2025-04-16",
-        category: "Vulnerability Scanning"
-    },
-    {
-        id: 76,
-        title: "OpenVAS",
-        description: "نظام مفتوح المصدر لفحص الثغرات",
-        link: "https://www.openvas.org",
-        icon: "foto/vulnerability_tools.jpg",
-        date: "2025-04-16",
-        category: "Vulnerability Scanning"
-    },
-    {
-        id: 77,
-        title: "Nexpose",
-        description: "حل إدارة الثغرات من Rapid7",
-        link: "https://www.rapid7.com/products/nexpose/",
-        icon: "foto/vulnerability_tools.jpg",
-        date: "2025-04-16",
-        category: "Vulnerability Scanning"
-    },
-    {
-        id: 78,
-        title: "Qualys",
-        description: "منصة إدارة الثغرات السحابية",
-        link: "https://www.qualys.com",
-        icon: "foto/vulnerability_tools.jpg",
-        date: "2025-04-16",
-        category: "Vulnerability Scanning"
-    },
-    {
-        id: 79,
-        title: "Kali Linux",
-        description: "توزيعة لينكس مخصصة لاختبار الاختراق",
-        link: "https://www.kali.org",
-        icon: "foto/os_tools.jpg",
-        date: "2025-04-16",
-        category: "Operating Systems"
-    },
-    {
-        id: 80,
-        title: "Parrot OS",
-        description: "توزيعة أمان واختبار اختراق",
-        link: "https://www.parrotsec.org",
-        icon: "foto/os_tools.jpg",
-        date: "2025-04-16",
-        category: "Operating Systems"
-    },
-    {
-        id: 81,
-        title: "BlackArch",
-        description: "توزيعة لينكس للأمن السيبراني",
-        link: "https://blackarch.org",
-        icon: "foto/os_tools.jpg",
-        date: "2025-04-16",
-        category: "Operating Systems"
-    },
-    {
-        id: 82,
-        title: "Pentoo",
-        description: "توزيعة اختبار اختراق مبنية على Gentoo",
-        link: "http://www.pentoo.ch",
-        icon: "foto/os_tools.jpg",
-        date: "2025-04-16",
-        category: "Operating Systems"
-    },
-    {
-        id: 83,
-        title: "Tails",
-        description: "نظام تشغيل للحفاظ على الخصوصية",
-        link: "https://tails.boum.org",
-        icon: "foto/os_tools.jpg",
-        date: "2025-04-16",
-        category: "Operating Systems"
-    },
-    {
-        id: 84,
-        title: "Qubes OS",
-        description: "نظام تشغيل آمن يعتمد على العزل",
-        link: "https://www.qubes-os.org",
-        icon: "foto/os_tools.jpg",
-        date: "2025-04-16",
-        category: "Operating Systems"
-    },
-    {
-        id: 85,
-        title: "Whonix",
-        description: "نظام تشغيل للحفاظ على الخصوصية يعمل على VirtualBox",
-        link: "https://www.whonix.org",
-        icon: "foto/os_tools.jpg",
-        date: "2025-04-16",
-        category: "Operating Systems"
-    },
-    {
-        id: 86,
-        title: "Subgraph OS",
-        description: "نظام تشغيل آمن ومقاوم للهجوم",
-        link: "https://subgraph.com",
-        icon: "foto/os_tools.jpg",
-        date: "2025-04-16",
-        category: "Operating Systems"
-    },
-    {
-        id: 87,
-        title: "Caine",
-        description: "توزيعة الطب الشرعي الرقمي",
-        link: "https://www.caine-live.net",
-        icon: "foto/os_tools.jpg",
-        date: "2025-04-16",
-        category: "Forensics"
-    },
-    {
-        id: 88,
-        title: "DEFT",
-        description: "توزيعة الطب الشرعي الرقمي",
-        link: "http://www.deftlinux.net",
-        icon: "foto/os_tools.jpg",
-        date: "2025-04-16",
-        category: "Forensics"
-    },
-    {
-        id: 89,
-        title: "Security Onion",
-        description: "توزيعة لمراقبة الشبكة واكتشاف التسلل",
-        link: "https://securityonion.net",
-        icon: "foto/os_tools.jpg",
-        date: "2025-04-16",
-        category: "Intrusion Detection"
-    },
-    {
-        id: 90,
-        title: "pfSense",
-        description: "جدار حماية وتوجيه مفتوح المصدر",
-        link: "https://www.pfsense.org",
-        icon: "foto/os_tools.jpg",
-        date: "2025-04-16",
-        category: "Network Security"
-    },
-    {
-        id: 91,
-        title: "OPNsense",
-        description: "جدار حماية وتوجيه مفتوح المصدر",
-        link: "https://opnsense.org",
-        icon: "foto/os_tools.jpg",
-        date: "2025-04-16",
-        category: "Network Security"
-    },
-    {
-        id: 92,
-        title: "Alpine Linux",
-        description: "توزيعة لينكس خفيفة الوزن للأمن",
-        link: "https://alpinelinux.org",
-        icon: "foto/os_tools.jpg",
-        date: "2025-04-16",
-        category: "Operating Systems"
-    },
-    {
-        id: 93,
-        title: "ArchStrike",
-        description: "مستودع أدوات الأمن لـ Arch Linux",
-        link: "https://archstrike.org",
-        icon: "foto/os_tools.jpg",
-        date: "2025-04-16",
-        category: "Operating Systems"
-    },
-    {
-        id: 94,
-        title: "BackBox",
-        description: "توزيعة اختبار اختراق",
-        link: "https://www.backbox.org",
-        icon: "foto/os_tools.jpg",
-        date: "2025-04-16",
-        category: "Operating Systems"
-    },
-    {
-        id: 95,
-        title: "Bugtraq",
-        description: "توزيعة اختبار اختراق",
-        link: "http://bugtraq-team.com",
-        icon: "foto/os_tools.jpg",
-        date: "2025-04-16",
-        category: "Operating Systems"
-    },
-    {
-        id: 96,
-        title: "Cyborg Hawk",
-        description: "توزيعة اختبار اختراق",
-        link: "https://cyborg.ztrela.com",
-        icon: "foto/os_tools.jpg",
-        date: "2025-04-16",
-        category: "Operating Systems"
-    },
-    {
-        id: 97,
-        title: "Fedora Security Lab",
-        description: "توزيعة اختبار اختراق من Fedora",
-        link: "https://labs.fedoraproject.org/security",
-        icon: "foto/os_tools.jpg",
-        date: "2025-04-16",
-        category: "Operating Systems"
-    },
-    {
-        id: 98,
-        title: "SamuraiWTF",
-        description: "توزيعة اختبار اختراق الويب",
-        link: "http://www.samurai-wtf.org",
-        icon: "foto/os_tools.jpg",
-        date: "2025-04-16",
-        category: "Operating Systems"
-    },
-    {
-        id: 99,
-        title: "Wifislax",
-        description: "توزيعة اختبار اختراق الشبكات اللاسلكية",
-        link: "https://www.wifislax.com",
-        icon: "foto/os_tools.jpg",
-        date: "2025-04-16",
-        category: "Wireless Hacking"
-    },
-    {
-        id: 100,
-        title: "Network Security Toolkit",
-        description: "توزيعة أدوات أمان الشبكة",
-        link: "https://www.networksecuritytoolkit.org",
-        icon: "foto/os_tools.jpg",
-        date: "2025-04-16",
-        category: "Network Security"
-    }
-];
-
-// تصدير المصفوفة للاستخدام في ملفات أخرى
-module.exports = tools;
+            ],
+            tools: toolsData,
             media: [
-                // نموذج لإضافة وسائط جديدة
                 {
                     id: 1,
-                    title: "صورة توضيحية للإنتاجية",
-                    description: "صورة توضح مفهوم الإنتاجية وأساليب تحسينها",
-                    type: "image",
-                    url: "https://via.placeholder.com/600x400",
-                    date: "2023-05-10"
+                    title: "مقدمة في الأمن السيبراني",
+                    description: "فيديو تعريفي بمبادئ الأمن السيبراني الأساسية",
+                    type: "video",
+                    embed: '<iframe width="100%" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>',
+                    date: "2025-04-10"
                 },
                 {
                     id: 2,
-                    title: "فيديو",
-                    description: "فيديو ",
-                    type: "video",
-                    embed: '<iframe width="100%" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allowfullscreen></iframe>',
-                    date: "2023-06-05"
-                },
-                {
-                    id: 4,
-                    title: "فيديو",
-                    description: "فيديو ",
-                    type: "video",
-                    
-                    embed: '<iframe width="100%" height="315" src="song/VID_20250410_011441_276.mp4" frameborder="0" allowfullscreen></iframe>',
-                    date: "2023-06-05"
+                    title: "صورة توضيحية",
+                    description: "رسم توضيحي لمفهوم اختبار الاختراق",
+                    type: "image",
+                    url: "https://via.placeholder.com/600x400",
+                    date: "2025-04-12"
                 },
                 {
                     id: 3,
-                    title: "ملف صوتي",
-                    description: "قرأن",
+                    title: "بودكاست أمن المعلومات",
+                    description: "حلقة صوتية تناقش آخر تهديدات الأمن السيبراني",
                     type: "audio",
                     url: "song/VID_20250410_012056_728.mp3",
-                    date: "2023-06-12"
+                    date: "2025-04-15"
                 }
-                // يمكن إضافة المزيد من الوسائط هنا
             ]
         };
 
-        /*
-        ============================================
-        نهاية قسم الإعدادات - لا تقم بالتعديل بعد هذا السطر
-        ============================================
-        */
-
-        // تحميل الصفحة
-        document.addEventListener('DOMContentLoaded', function() {
-            // إعداد سنة التذييل
-            document.getElementById('year').textContent = new Date().getFullYear();
+        // Main Application
+        class DvecontentApp {
+            constructor() {
+                this.init();
+            }
             
-            // عرض المحتوى
-            renderContent();
+            init() {
+                // Set current year in footer
+                document.getElementById('year').textContent = new Date().getFullYear();
+                
+                // Render all content
+                this.renderContent();
+                
+                // Show dashboard by default
+                this.showSection('dashboard');
+                
+                // Initialize ads (placeholder)
+                this.initAds();
+            }
             
-            // عرض الصفحة الرئيسية
-            showSection('dashboard');
+            // Show specific section and hide others
+            showSection(sectionId) {
+                // Hide all sections
+                document.querySelectorAll('.section').forEach(el => {
+                    el.classList.add('hidden');
+                });
+                
+                // Show requested section
+                const section = document.getElementById(sectionId);
+                if (section) {
+                    section.classList.remove('hidden');
+                    
+                    // Scroll to top smoothly
+                    window.scrollTo({
+                        top: 0,
+                        behavior: 'smooth'
+                    });
+                }
+            }
             
-            // يمكنك إضافة كود الإعلانات هنا مثل Google AdSense
-            // loadAds();
-        });
-        
-        // وظيفة لتحميل الإعلانات (اختيارية)
-        function loadAds() {
-            // مثال على إضافة Google AdSense
-            /*
-            const script = document.createElement('script');
-            script.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXX';
-            script.async = true;
-            script.crossOrigin = 'anonymous';
-            document.head.appendChild(script);
-            */
-        }
-        
-        // وظائف مساعدة
-        function showSection(sectionId) {
-            // إخفاء جميع الأقسام
-            document.querySelectorAll('.content-page, .dashboard').forEach(el => {
-                el.style.display = 'none';
-            });
+            // Initialize ads (placeholder)
+            initAds() {
+                // This would be replaced with actual ad code like Google AdSense
+                console.log('Ad initialization would happen here');
+            }
             
-            // إظهار القسم المطلوب
-            document.getElementById(sectionId).style.display = 'block';
-        }
-        
-        function renderContent() {
-            renderApps();
-            renderTools();
-            renderPosts();
-            renderMedia();
-        }
-        
-        function renderApps() {
-            const appsGrid = document.getElementById('appsGrid');
-            appsGrid.innerHTML = '';
+            // Render all content sections
+            renderContent() {
+                this.renderApps();
+                this.renderTools();
+                this.renderMedia();
+            }
             
-            contentData.apps.forEach(app => {
-                appsGrid.innerHTML += `
-                    <div class="app-card">
-                        <img src="${app.image}" alt="${app.title}" class="app-icon">
-                        <h3 class="app-title">${app.title}</h3>
-                        <p class="app-description">${app.description}</p>
-                        <div class="app-meta">
-                            <span class="app-version">الإصدار: ${app.version}</span>
-                            <span class="app-size">الحجم: ${app.size}</span>
+            // Render apps grid
+            renderApps() {
+                const appsGrid = document.getElementById('appsGrid');
+                if (!appsGrid) return;
+                
+                appsGrid.innerHTML = contentData.apps.map(app => `
+                    <div class="card fade-in">
+                        ${app.image ? `<img src="${app.image}" alt="${app.title}" class="card-img">` : ''}
+                        <h3 class="card-title">${app.title}</h3>
+                        <p class="card-description">${app.description}</p>
+                        <div class="card-meta">
+                            <span>الإصدار: ${app.version}</span>
+                            <span>الحجم: ${app.size}</span>
                         </div>
-                        <div class="actions">
-                            ${app.downloadLink ? `<a href="${app.downloadLink}" class="download-btn" download><i class="fa fa-download"></i> تنزيل مباشر</a>` : ''}
-                            ${app.detailsLink ? `<a href="${app.detailsLink}" class="view">تفاصيل التطبيق</a>` : ''}
+                        <div class="btn-group">
+                            ${app.downloadLink ? 
+                                `<a href="${app.downloadLink}" class="btn btn-success" download>
+                                    <i class="fas fa-download"></i> تنزيل
+                                </a>` : ''
+                            }
+                            ${app.detailsLink ? 
+                                `<a href="${app.detailsLink}" class="btn btn-primary">
+                                    <i class="fas fa-info-circle"></i> التفاصيل
+                                </a>` : ''
+                            }
                         </div>
                         <small>تاريخ الإضافة: ${app.date}</small>
                     </div>
-                `;
-            });
-        }
-        
-        function renderTools() {
-            const toolsGrid = document.getElementById('toolsGrid');
-            toolsGrid.innerHTML = '';
+                `).join('');
+            }
             
-            contentData.tools.forEach(tool => {
-                toolsGrid.innerHTML += `
-                    <div class="tool-card">
-                        ${tool.icon ? `<img src="${tool.icon}" alt="${tool.title}" class="tool-icon">` : '<i class="fa fa-wrench" style="font-size: 3rem; color: #2c3e50; margin-bottom: 1rem;"></i>'}
-                        <h3>${tool.title}</h3>
-                        <p>${tool.description}</p>
-                        <small>تاريخ الإضافة: ${tool.date}</small>
-                        <div class="actions" style="margin-top: 1rem;">
-                            <a href="${tool.link}" target="_blank" class="tool-btn">
-                                <i class="fa fa-external-link"></i> زيارة الأداة
-                            </a>
-                        </div>
-                    </div>
-                `;
-            });
-        }
-        
-        function renderPosts() {
-            const postsGrid = document.getElementById('postsGrid');
-            postsGrid.innerHTML = '';
-            
-            contentData.posts.forEach(post => {
-                postsGrid.innerHTML += `
-                    <div class="post-card">
-                        ${post.image ? `<img src="${post.image}" alt="${post.title}" class="post-image">` : ''}
-                        <h3>${post.title}</h3>
-                        <p>${post.description}</p>
-                        <small>تاريخ النشر: ${post.date}</small>
-                        <div class="actions" style="margin-top: 1rem;">
-                            <a href="#" class="view" onclick="viewPost(${post.id})">
-                                <i class="fa fa-book"></i> قراءة المزيد
-                            </a>
-                        </div>
-                    </div>
-                `;
-            });
-        }
-        
-        function renderMedia() {
-            const mediaGrid = document.getElementById('mediaGrid');
-            mediaGrid.innerHTML = '';
-            
-            contentData.media.forEach(media => {
-                let mediaContent = '';
+            // Render tools grid
+            renderTools() {
+                const toolsGrid = document.getElementById('toolsGrid');
+                if (!toolsGrid) return;
                 
-                if(media.type === 'image') {
-                    mediaContent = `<img src="${media.url}" alt="${media.title}" class="media-content">`;
-                } else if(media.type === 'video') {
-                    mediaContent = `<div class="media-content">${media.embed}</div>`;
-                } else if(media.type === 'audio') {
-                    mediaContent = `
-                        <div class="media-content">
-                            <audio controls style="width: 100%;">
-                                <source src="${media.url}" type="audio/mpeg">
-                                متصفحك لا يدعم تشغيل الصوتيات.
-                            </audio>
+                // Simulate loading delay
+                setTimeout(() => {
+                    toolsGrid.innerHTML = contentData.tools.map(tool => `
+                        <div class="card fade-in">
+                            ${tool.icon ? 
+                                `<img src="${tool.icon}" alt="${tool.title}" class="card-img">` : 
+                                `<div class="card-icon"><i class="fas fa-toolbox"></i></div>`
+                            }
+                            <span class="card-badge">${tool.category}</span>
+                            <h3 class="card-title">${tool.title}</h3>
+                            <p class="card-description">${tool.description}</p>
+                            <div class="btn-group">
+                                <a href="${tool.link}" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
+                                    <i class="fas fa-external-link-alt"></i> زيارة الأداة
+                                </a>
+                            </div>
+                            <small>تاريخ الإضافة: ${tool.date}</small>
+                        </div>
+                    `).join('');
+                }, 1000);
+            }
+            
+            // Render media grid
+            renderMedia() {
+                const mediaGrid = document.getElementById('mediaGrid');
+                if (!mediaGrid) return;
+                
+                mediaGrid.innerHTML = contentData.media.map(media => {
+                    let mediaContent = '';
+                    
+                    if (media.type === 'image') {
+                        mediaContent = `
+                            <div class="media-container">
+                                <img src="${media.url}" alt="${media.title}">
+                            </div>
+                        `;
+                    } else if (media.type === 'video') {
+                        mediaContent = `
+                            <div class="media-container">
+                                ${media.embed}
+                            </div>
+                        `;
+                    } else if (media.type === 'audio') {
+                        mediaContent = `
+                            <div class="media-container">
+                                <audio controls style="width: 100%;">
+                                    <source src="${media.url}" type="audio/mpeg">
+                                    متصفحك لا يدعم تشغيل الصوتيات.
+                                </audio>
+                            </div>
+                        `;
+                    }
+                    
+                    return `
+                        <div class="card fade-in">
+                            <h3 class="card-title">${media.title}</h3>
+                            ${mediaContent}
+                            <p class="card-description">${media.description}</p>
+                            <small>تاريخ الإضافة: ${media.date}</small>
                         </div>
                     `;
-                }
+                }).join('');
+            }
+        }
+
+        // Filter tools based on search and category
+        function filterTools() {
+            const searchInput = document.getElementById('toolsSearch');
+            const filterSelect = document.getElementById('toolsFilter');
+            const toolsGrid = document.getElementById('toolsGrid');
+            
+            const searchTerm = searchInput.value.toLowerCase();
+            const filterValue = filterSelect.value;
+            
+            const filteredTools = contentData.tools.filter(tool => {
+                const matchesSearch = tool.title.toLowerCase().includes(searchTerm) || 
+                                     tool.description.toLowerCase().includes(searchTerm);
+                const matchesCategory = filterValue === 'all' || tool.category === filterValue;
                 
-                mediaGrid.innerHTML += `
-                    <div class="media-card">
-                        <h3>${media.title}</h3>
-                        ${mediaContent}
-                        <p>${media.description}</p>
-                        <small>تاريخ الإضافة: ${media.date}</small>
-                    </div>
-                `;
+                return matchesSearch && matchesCategory;
             });
+            
+            toolsGrid.innerHTML = filteredTools.map(tool => `
+                <div class="card fade-in">
+                    ${tool.icon ? 
+                        `<img src="${tool.icon}" alt="${tool.title}" class="card-img">` : 
+                        `<div class="card-icon"><i class="fas fa-toolbox"></i></div>`
+                    }
+                    <span class="card-badge">${tool.category}</span>
+                    <h3 class="card-title">${tool.title}</h3>
+                    <p class="card-description">${tool.description}</p>
+                    <div class="btn-group">
+                        <a href="${tool.link}" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
+                            <i class="fas fa-external-link-alt"></i> زيارة الأداة
+                        </a>
+                    </div>
+                    <small>تاريخ الإضافة: ${tool.date}</small>
+                </div>
+            `).join('');
         }
-        
-        function viewPost(postId) {
-            const post = contentData.posts.find(p => p.id === postId);
-            if (post) {
-                alert(`عرض المنشور: ${post.title}\n\n${post.content}`);
-            }
-        }
-        
-        function getTypeName(type) {
-            switch(type) {
-                case 'app': return 'تطبيق';
-                case 'tool': return 'أداة';
-                case 'post': return 'منشور';
-                case 'media': return 'وسائط';
-                case 'image': return 'صورة';
-                case 'video': return 'فيديو';
-                case 'audio': return 'صوت';
-                default: return 'محتوى';
-            }
-        }
+
+        // Initialize the application when DOM is loaded
+        document.addEventListener('DOMContentLoaded', () => {
+            const app = new DvecontentApp();
+            
+            // Make functions available globally
+            window.showSection = (sectionId) => app.showSection(sectionId);
+            window.filterTools = filterTools;
+        });
     </script>
 </body>
-  </html>
+    </html>
